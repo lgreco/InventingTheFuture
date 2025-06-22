@@ -18,14 +18,18 @@ This is history told through invention. And invention told through people.
 ### [Biking in Three Dimensions](./topics/biking_in_3d.md) 
 (Why it took two bicycle makers to invent flight)
 
+
+### [Caboom](./topics/chinatown.md)
+(Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
+
 ### [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) 
 (Harrison chronometer; imperial navies; the longitude problem)
 
 ### [Chinatown](./topics/chinatown.md) 
 (Hoover Dam; water wars; the Great Depression)
 
-### [Caboom](./topics/chinatown.md)
-(Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
+### [Collins v. Venter](./topics/collins_v_venter.md)
+(A high-stakes sprint between a publicly funded consortium and a private biotech upstart)
 
 ### [Farmer's Table](/topics/farmers_table.md) 
 (Ford's work on internal combustion)
@@ -63,6 +67,7 @@ This is history told through invention. And invention told through people.
 * **1942:** [Caboom](./topics/chinatown.md)
 * **1947:** [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
 * **1970s:** [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
+* **2000:** [Collins v. Venter](./topics/collins_v_venter.md)
 
 
 
