@@ -13,32 +13,32 @@ This is history told through invention. And invention told through people.
 ## Outline
 (alphabetical)
 
-### Artificial Intelligence 
+### [Artificial Intelligence](./topics/ai.md) 
 (How a homeless janitor at the University of Chicago fueled by ice cream and bourbon invented neural networks)
 
-### Biking in Three Dimensions 
+### [Biking in Three Dimensions](./topics/biking_in_3d.md) 
 (Why it took two bicycle makers to invent flight)
 
-### Carpenter Timekeeper 
+### [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) 
 (Harrison chronometer; imperial navies; the longitude problem)
 
-### Chinatown 
+### [Chinatown](./topics/chinatown.md) 
 (Hoover Dam; water wars; the Great Depression)
 
-### Caboom 
+### [Caboom](./topics/chinatown.md)
 (Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
 
-### Farmer's Table 
+### [Farmer's Table](/topics/farmers_table.md) 
 (Ford's work on internal combustion)
 
-### Inventing a City 
+### [Inventing a City](./topics/inventing_a_city.md) 
 (reconstruction of Chicago; Pullman; Burnham etc; Doxiadis Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
 
-### Migrant's Wife 
+### [Migrant's Wife](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
 
-### Superhet 
+### [Superhet](./topics/superhet.md) 
 (the invention of radio and the transformation of telecommunications -- will include ham radio demo)
 
-### The Other German Printer 
+### [The Other German Printer](/topics/the_other_german_printer.md) 
 (Otto Mergenthaler and the other revolution of mass printing -- field trip to Manitowoc WI print museum?)
