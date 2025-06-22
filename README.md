@@ -10,8 +10,7 @@ Topics include neural networks (inspired by a bourbon-fueled janitor at UChicago
 
 This is history told through invention. And invention told through people.
 
-## Outline
-(alphabetical)
+## Contents (alphabetically)
 
 ### [Artificial Intelligence](./topics/ai.md) 
 (How a homeless janitor at the University of Chicago fueled by ice cream and bourbon invented neural networks)
@@ -42,3 +41,21 @@ This is history told through invention. And invention told through people.
 
 ### [The Other German Printer](/topics/the_other_german_printer.md) 
 (Otto Mergenthaler and the other revolution of mass printing -- field trip to Manitowoc WI print museum?)
+
+
+## Contents (chronologically)
+
+* **1731:** [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) 
+* **1884:** [The Other German Printer](/topics/the_other_german_printer.md) 
+* **1893:** [Farmer's Table](/topics/farmers_table.md) 
+* **1903:** [Biking in Three Dimensions](./topics/biking_in_3d.md) 
+* **1909:** [Inventing a City](./topics/inventing_a_city.md) 
+* **1918:** [Superhet](./topics/superhet.md) 
+* **1928:** [Migrant's Wife](./topics/migrants_wife.md) 
+* **1931:** [Chinatown](./topics/chinatown.md) 
+* **1941:** [Artificial Intelligence](./topics/ai.md) 
+* **1942:** [Caboom](./topics/chinatown.md)
+
+
+
+
