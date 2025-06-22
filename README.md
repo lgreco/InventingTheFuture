@@ -11,24 +11,34 @@ Topics include neural networks (inspired by a bourbon-fueled janitor at UChicago
 This is history told through invention. And invention told through people.
 
 ## Outline
+(alphabetical)
 
 ### Artificial Intelligence 
 (How a homeless janitor at the University of Chicago fueled by ice cream and bourbon invented neural networks)
-### Inventing a City 
-(reconstruction of Chicago; Pullman; Burnham etc; Doxiadis Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
-### Caboom 
-(Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
+
 ### Biking in Three Dimensions 
 (Why it took two bicycle makers to invent flight)
-### A Migrant's Wife 
-(Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
-### Superhet 
-(the invention of radio and the transformation of telecommunications -- will include ham radio demo)
-### The Carpenter Timekeeper 
+
+### Carpenter Timekeeper 
 (Harrison chronometer; imperial navies; the longitude problem)
-### Farmer's Table 
-(Ford's work on internal combustion)
-### The Other German Printer 
-(Otto Mergenthaler and the other of mass printing -- field trip to Manitowoc WI print museum?)
+
 ### Chinatown 
 (Hoover Dam; water wars; the Great Depression)
+
+### Caboom 
+(Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
+
+### Farmer's Table 
+(Ford's work on internal combustion)
+
+### Inventing a City 
+(reconstruction of Chicago; Pullman; Burnham etc; Doxiadis Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
+
+### Migrant's Wife 
+(Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
+
+### Superhet 
+(the invention of radio and the transformation of telecommunications -- will include ham radio demo)
+
+### The Other German Printer 
+(Otto Mergenthaler and the other revolution of mass printing -- field trip to Manitowoc WI print museum?)
