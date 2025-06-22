@@ -36,8 +36,14 @@ This is history told through invention. And invention told through people.
 ### [Migrant's Wife](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
 
+### [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
+(The dawn of micro and personal computers in Cambridge UL and Menlo Park, CA)
+
 ### [Superhet](./topics/superhet.md) 
 (the invention of radio and the transformation of telecommunications -- will include ham radio demo)
+
+### [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
+(The invention of the transistor and the role of AT&T Labs in shaping second half of 20th century technology)
 
 ### [The Other German Printer](/topics/the_other_german_printer.md) 
 (Otto Mergenthaler and the other revolution of mass printing -- field trip to Manitowoc WI print museum?)
@@ -55,6 +61,9 @@ This is history told through invention. And invention told through people.
 * **1931:** [Chinatown](./topics/chinatown.md) 
 * **1941:** [Artificial Intelligence](./topics/ai.md) 
 * **1942:** [Caboom](./topics/chinatown.md)
+* **1947:** [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
+* **1970s:** [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
+
 
 
 
