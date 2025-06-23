@@ -1,4 +1,4 @@
-# Hidden Geniuses and Forgotten Stories in the Global Technopolis
+# Hidden Geniuses and Forgotten Stories<br/>in the Global Technopolis
 
 ## Abstract
 
