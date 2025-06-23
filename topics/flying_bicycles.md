@@ -1,5 +1,4 @@
-# Biking In Three Dimensions
-
+# Flying Bicycles
 
 ## Abstract
 
