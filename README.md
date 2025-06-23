@@ -40,6 +40,9 @@ This is history told through invention. And invention told through people.
 ### [Migrant's Wife](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
 
+### [Operation Paperclip Pays Off](./topics/operation_paperclip_pays_off.md)
+(The development of the space program)
+
 ### [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
 (The dawn of micro and personal computers in Cambridge UL and Menlo Park, CA)
 
@@ -67,6 +70,7 @@ This is history told through invention. And invention told through people.
 * **1941:** [Artificial Intelligence](./topics/ai.md) 
 * **1942:** [Caboom](./topics/chinatown.md)
 * **1947:** [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
+* **1960s:** [Operation Paperclip Pays Off](./topics/operation_paperclip_pays_off.md)
 * **1970s:** [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
 * **2000:** [Collins v. Venter](./topics/collins_v_venter.md)
 
