@@ -44,7 +44,7 @@ This is history told through invention. And invention told through people.
 (The dawn of micro and personal computers in Cambridge UL and Menlo Park, CA)
 
 ### [Superhet](./topics/superhet.md) 
-(the invention of radio and the transformation of telecommunications -- will include ham radio demo)
+(the invention of an affordable radio receiver and the democratization of telecommunications -- will include ham radio demo)
 
 ### [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
 (The invention of the transistor and the role of AT&T Labs in shaping second half of 20th century technology)
