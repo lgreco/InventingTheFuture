@@ -15,7 +15,7 @@ This is history told through invention. And invention told through people.
 ### [Artificial Intelligence](./topics/ai.md) 
 (How a homeless janitor at the University of Chicago fueled by ice cream and bourbon invented neural networks)
 
-### [Biking in Three Dimensions](./topics/biking_in_3d.md) 
+### [Flying Bicycles](./topics/flying_bicycles.md) 
 (Why it took two bicycle makers to invent flight)
 
 
@@ -58,7 +58,8 @@ This is history told through invention. And invention told through people.
 * **1731:** [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) 
 * **1884:** [The Other German Printer](/topics/the_other_german_printer.md) 
 * **1893:** [Farmer's Table](/topics/farmers_table.md) 
-* **1903:** [Biking in Three Dimensions](./topics/biking_in_3d.md) 
+* **1903:** [Flying Bicycles](./topics/flying_bicycles.md) 
+
 * **1909:** [Inventing a City](./topics/inventing_a_city.md) 
 * **1918:** [Superhet](./topics/superhet.md) 
 * **1928:** [Migrant's Wife](./topics/migrants_wife.md) 
