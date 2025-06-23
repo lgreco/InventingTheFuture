@@ -9,7 +9,7 @@ Together, they modeled neurons as binary logic gates, proposing that thought ari
 
 Yet Pitts struggled with depression, alcoholism, and the limits of pure logic. Wiener abruptly cut ties after a false allegation, devastating Pitts. The later discovery that vision processing occurs partly in the eye—not just the brain—shook his logical worldview. He withdrew, destroyed his dissertation, and died in obscurity in 1969. 
 
-This is the story of a man undone by the belief that logic alone could explain the world.
+This is the story of a man undone by the belief that logic alone could explain the world. -
 
 ## Discussion points
 
