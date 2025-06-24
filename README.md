@@ -77,4 +77,8 @@ This is history told through invention. And invention told through people.
 
 
 
+## Reading list
 
+Each topic has its own reading and media listing. In addition that those resources, the following are good sources of information especially prior to the beginning of the course.
+
+* *Technopolis,* Neil Postman, 1992.

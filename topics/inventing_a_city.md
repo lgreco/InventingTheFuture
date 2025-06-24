@@ -18,4 +18,4 @@ The “invention of Chicago” was not just about rebuilding—it was about reim
 
 ## Reading list
 
-*
+* *City of the Century: The Epic of Chicago and the Making of America,* by Donald L Miller
