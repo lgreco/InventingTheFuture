@@ -17,6 +17,6 @@ However, digital democratization comes with new challenges. The ease of publishi
 *
 
 
-## Reading list
+## Reading and media
 
 *

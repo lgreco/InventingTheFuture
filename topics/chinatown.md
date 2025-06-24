@@ -16,6 +16,6 @@ Together, the Hoover Dam, California’s water struggles, and Chinatown illustra
 *
 
 
-## Reading list
+## Reading and media
 
 * *Cadillac Desert,* by Marc Reisner

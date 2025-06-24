@@ -16,6 +16,6 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 *
 
 
-## Reading list
+## Reading and media
 
 *

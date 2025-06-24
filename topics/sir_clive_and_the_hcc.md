@@ -16,6 +16,6 @@ The Homebrew movement and Sinclair’s innovations marked the shift from computi
 *
 
 
-## Reading list
+## Reading and media
 
 *

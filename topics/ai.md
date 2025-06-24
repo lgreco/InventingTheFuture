@@ -16,6 +16,6 @@ This is the story of a man undone by the belief that logic alone could explain t
 * 
 
 
-## Reading list
+## Reading and media
 
 * Amanda Gefter, [*The man who tried to redeem the world with logic*](../reading_material/ai_amanda_gefter_2015.pdf), Nautilus, 2015.
