@@ -12,47 +12,47 @@ This is history told through invention. And invention told through people.
 
 ## Contents (alphabetically)
 
-### [Artificial Intelligence](./topics/ai.md) 
+* [**Artificial Intelligence**](./topics/ai.md) 
 (How a homeless janitor at the University of Chicago fueled by ice cream and bourbon invented neural networks)
 
-### [Flying Bicycles](./topics/flying_bicycles.md) 
+* [**Flying Bicycles**](./topics/flying_bicycles.md) 
 (Why it took two bicycle makers to invent flight)
 
 
-### [Caboom](./topics/chinatown.md)
+* [**Caboom**](./topics/chinatown.md)
 (Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
 
-### [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) 
+* [**Carpenter Timekeeper**](./topics/carpenter_timekeeper.md) 
 (Harrison chronometer; imperial navies; the longitude problem)
 
-### [Chinatown](./topics/chinatown.md) 
+* [**Chinatown**](./topics/chinatown.md) 
 (Hoover Dam; water wars; the Great Depression)
 
-### [Collins v. Venter](./topics/collins_v_venter.md)
+* [**Collins v. Venter**](./topics/collins_v_venter.md)
 (A high-stakes sprint between a publicly funded consortium and a private biotech upstart)
 
-### [Farmer's Table](/topics/farmers_table.md) 
+* [**Farmer's Table**](/topics/farmers_table.md) 
 (Ford's work on internal combustion)
 
-### [Inventing a City](./topics/inventing_a_city.md) 
+* [**Inventing a City**](./topics/inventing_a_city.md) 
 (reconstruction of Chicago; Pullman; Burnham etc; Doxiadis Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
 
-### [Migrant's Wife](./topics/migrants_wife.md) 
+* [**Migrant's Wife**](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
 
-### [Operation Paperclip Pays Off](./topics/operation_paperclip_pays_off.md)
+* [**Operation Paperclip Pays Off**](./topics/operation_paperclip_pays_off.md)
 (The development of the space program)
 
-### [Sir Clive and the Homebrew Computer Club](./topics/sir_clive_and_the_hcc.md)
+* [**Sir Clive and the Homebrew Computer Club**](./topics/sir_clive_and_the_hcc.md)
 (The dawn of micro and personal computers in Cambridge UL and Menlo Park, CA)
 
-### [Superhet](./topics/superhet.md) 
+* [**Superhet**](./topics/superhet.md) 
 (the invention of an affordable radio receiver and the democratization of telecommunications -- will include ham radio demo)
 
-### [Technopolis on Murray Hill](./topics/technopolis_on_murray_hill.md)
+* [**Technopolis on Murray Hill**](./topics/technopolis_on_murray_hill.md)
 (The invention of the transistor and the role of AT&T Labs in shaping second half of 20th century technology)
 
-### [The Other German Printer](/topics/the_other_german_printer.md) 
+* [**The Other German Printer**](/topics/the_other_german_printer.md) 
 (Otto Mergenthaler and the other revolution of mass printing -- field trip to Manitowoc WI print museum?)
 
 
