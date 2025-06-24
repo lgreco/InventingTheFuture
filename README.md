@@ -44,7 +44,7 @@ This is history told through invention. And invention told through people.
 (The development of the space program)
 
 * [**Sir Clive and the Homebrew Computer Club**](./topics/sir_clive_and_the_hcc.md)
-(The dawn of micro and personal computers in Cambridge UL and Menlo Park, CA)
+(The dawn of micro and personal computers in Cambridge UK and Menlo Park, CA)
 
 * [**Superhet**](./topics/superhet.md) 
 (the invention of an affordable radio receiver and the democratization of telecommunications -- will include ham radio demo)
