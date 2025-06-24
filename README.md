@@ -35,7 +35,7 @@ This is history told through invention. And invention told through people.
 (Ford's work on internal combustion)
 
 * [**Inventing a City**](./topics/inventing_a_city.md) 
-(reconstruction of Chicago; Pullman; Burnham etc; Doxiadis Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
+(reconstruction of Chicago; Pullman; Burnham etc; Doxiadis' Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
 
 * [**Migrant's Wife**](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
