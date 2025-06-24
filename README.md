@@ -104,3 +104,8 @@ Each topic has its own reading and media listing. In addition that those resourc
 * *Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World,* by Jill Jonnes, 2003.
 
 * *The Shock of the Old: Technology and Global History Since 1900,* by David Edgerton, 2006.
+
+## Parking lot
+Ideas for topics to develop.
+* The rise and fall of IBM.
+* Wet sponges in the mail: deception and innovation at Boeing
