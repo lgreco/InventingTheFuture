@@ -106,6 +106,7 @@ Each topic has its own reading and media listing. In addition that those resourc
 * *The Shock of the Old: Technology and Global History Since 1900,* by David Edgerton, 2006.
 
 ## Parking lot
-Ideas for topics to develop.
+Ideas for topics to develop further.
 * The rise and fall of IBM.
 * Wet sponges in the mail: deception and innovation at Boeing
+* A man, a plan, a canal: Panama. (it's also a palindrome!)
