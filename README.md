@@ -77,8 +77,30 @@ This is history told through invention. And invention told through people.
 
 
 
-## Reading list
+## Reading and media list
 
 Each topic has its own reading and media listing. In addition that those resources, the following are good sources of information especially prior to the beginning of the course.
 
-* *Technopolis,* Neil Postman, 1992.
+### Video
+
+### Articles
+
+### Books
+
+* *Technics and Civilization,* by Lewis Mumford, 1934.
+
+* *Gödel, Escher, Bach: An Eternal Golden Braid,* by Douglas Hofstadter, 1979.
+
+* *The Social Shaping of Technology,* edited by Donald MacKenzie and Judy Wajcman, 1985.
+
+* *The Pencil: A History of Design and Circumstance,* by Henri Petroski, 1990.
+
+* *Technopoly,* by Neil Postman, 1992.
+
+* *Fast Food Nation: The Dark Side of the All-American Meal,* by Eric Schlosser, 2001.
+
+* *Einstein’s Clocks, Poincaré’s Maps: Empires of Time,* by Peter Galison, 2003.
+
+* *Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World,* by Jill Jonnes, 2003.
+
+* *The Shock of the Old: Technology and Global History Since 1900,* by David Edgerton, 2006.
