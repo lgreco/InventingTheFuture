@@ -18,4 +18,6 @@ Corporate restructuring and the breakup of AT&T in the 1980s changed the Labs' t
 
 ## Reading and media
 
-* *The Idea Factory: Bell Labs and the Great Age of American Innovation* by Jon Gertner 
+* [Book] *The Idea Factory: Bell Labs and the Great Age of American Innovation* by Jon Gertner 
+
+* [Blog/opinion] [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
