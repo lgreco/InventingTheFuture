@@ -111,4 +111,4 @@ Ideas for topics to develop further.
 * Wet sponges in the mail: deception and innovation at Boeing
 * A man, a plan, a canal: Panama. (it's also a palindrome!)
 * [Haber process](https://en.m.wikipedia.org/wiki/Fritz_Haber), nitrogen-based fertilisers, and chemical warfare.
-* Is there a story to be told about [Willis Carrier](https://en.wikipedia.org/wiki/Willis_Carrier) and modern air conditioning? Making a retro into passive/natural cooling techniques back to archaeological findings?
+* Is there a story to be told about [Willis Carrier](https://en.wikipedia.org/wiki/Willis_Carrier) and modern air conditioning? Maybe a retrospect into passive/natural cooling techniques back to archaeological findings?
