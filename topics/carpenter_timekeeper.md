@@ -20,5 +20,7 @@ Despite his success, Harrison faced years of skepticism and bureaucratic resista
 
 ## Reading and media
 
-* \[Wikipedia\] [History of Longitude](https://en.wikipedia.org/wiki/History_of_longitude)
-* \[Book\] *[Longitude](https://www.davasobel.com/books-by-dava-sobel/longitude),* by Dava Sobel
+* \[Wikipedia\]: [History of Longitude](https://en.wikipedia.org/wiki/History_of_longitude)
+* \[Book\]: *[Longitude](https://www.davasobel.com/books-by-dava-sobel/longitude),* by Dava Sobel
+* \[Website\]: [The Longitude Problem](https://timeandnavigation.si.edu/navigating-at-sea/longitude-problem) from the Smithsonian Institute
+* \[Website\]: [Research note on the longitude problem](https://www.nypl.org/blog/2021/06/18/maps-wayfinding-and-discovery-longitude) from the NYC Public Library
