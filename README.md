@@ -75,7 +75,19 @@ This is history told through invention. And invention told through people.
 * **2000:** [Collins v. Venter](./topics/collins_v_venter.md)
 
 
+## Learning Assessement and Grading Policy
 
+Class attendance, participation, and engagement make up 50% of the course grade. The rest of the grade is based on a term paper you are expected to write. 
+* Attendance: you come to class on time; you do not miss more than 2 class meetings.
+* Participation: you participate in the discussion during the meeting, sharing your understanding of the subject matter.
+* Engagement: you come to class prepared, having read the material for the subject matter.
+
+* Grade scale
+  * **A:** you missed no class meetings and you participated in each meeting and you came prepared for every class meeting and our term paper meets format, style, and content specifications and it's well written.
+  * **B:** you missed one or two class meetings or you did not participate in 1-2 meetings or you did not come prepared for in 1-2 meetings or your term paper does not fully meet the specifications.
+  * **C:** you missed 3-4 class meetings or you did not participate in 3-4 meetings or you did not come prepared in 3-4 meetings or your term paper is poorly written.
+  * **D:** you miss 5 meetings or you did not participate in 5 meetings or you did not come prepared in 5 meetings or your term paper is poorly written and not in compliance with format and style specifications.
+  * **F:** you miss 6 or more meetings or you did not participate in 6 or more meetings or you did not come prepared in 6 or more meetings.
 
 ## Reading and media list
 
@@ -104,6 +116,9 @@ Each topic has its own reading and media listing. In addition that those resourc
 * *Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World,* by Jill Jonnes, 2003.
 
 * *The Shock of the Old: Technology and Global History Since 1900,* by David Edgerton, 2006.
+
+## Other syllabus information
+[Instructor's expectations](https://lgreco.github.io/cdp/COMP363/introduction.html#instructor-s-expectations) | [Academic Integrity](https://lgreco.github.io/cdp/COMP363/introduction.html#academic-integrity) | [Be cool, like a pro](https://lgreco.github.io/cdp/COMP363/introduction.html#be-cool-like-a-pro) | [Formal stuff](https://lgreco.github.io/cdp/COMP363/introduction.html#formal-notices) | [Religious accommodations](https://lgreco.github.io/cdp/COMP363/introduction.html#religious-accommodations) | [Inclusion Statement](https://lgreco.github.io/cdp/COMP363/introduction.html#inclusion-statement)
 
 ## Parking lot
 Ideas for topics to develop further.
