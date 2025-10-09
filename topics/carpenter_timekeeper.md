@@ -20,4 +20,5 @@ Despite his success, Harrison faced years of skepticism and bureaucratic resista
 
 ## Reading and media
 
-* *Longitude,* by Dava Sobel
+* \[Wikipedia\] [History of Longitude](https://en.wikipedia.org/wiki/History_of_longitude)
+* \[Book\] [*Longitude](),* by Dava Sobel
