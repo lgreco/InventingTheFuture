@@ -58,12 +58,12 @@ A central theme here is the significant but often under-recognized contribution 
 *   **Discussion Question:** To what extent should individuals like Mary Papanicolaou or Hashime Murayama be considered co-inventors? How does the culture of science prioritize certain types of labor (e.g., theory and diagnosis) over others (e.g., technical support and communication)?.
 
 ### 2. Medical Distrust and Systemic Equity
-Scientific breakthroughs do not reach all populations equally. Dr. Helen Dickens, the first Black female OBGYN in Philadelphia, faced the "lie" that Black women did not get cervical cancer and had to overcome deep community distrust rooted in histories of **medical mistreatment and forced sterilizations** (often called "Mississippi appendectomies").
+Scientific breakthroughs do not reach all populations equally. Dr. Helen Dickens, the first Black female OBGYN in Philadelphia, faced the "lie" that Black women did not get cervical cancer and had to overcome deep community distrust rooted in histories of medical mistreatment and forced sterilizations (often called "Mississippi appendectomies").
 
 *   **Discussion Question:** How did Dr. Dickens’ approach of medical activism—going into churches and using mobile vans—differ from the mainstream American Cancer Society campaigns?. How do past medical atrocities continue to influence the rollout of preventative healthcare in marginalized communities today?.
 
 ### 3. The Ethics of Human Subject Research
-Before modern Institutional Review Boards (IRBs), Dr. Papanicolaou relied on his wife as his primary experimental subject. Mary Papanicolaou famously stated she had "no other option" but to follow him into the lab and **chose not to have children** to focus on the research.
+Before modern Institutional Review Boards (IRBs), Dr. Papanicolaou relied on his wife as his primary experimental subject. Mary Papanicolaou famously stated she had "no other option" but to follow him into the lab and chose not to have children to focus on the research.
 
 *   **Discussion Question:** From a modern ethical standpoint, can a spouse truly provide informed, non-coerced consent for 21 years of daily invasive procedures?. How should we reconcile the immense life-saving benefits of the Pap test with the informal and potentially problematic ways the data was initially gathered?.
 
