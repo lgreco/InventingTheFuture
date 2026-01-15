@@ -15,6 +15,12 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 ## Reading and media
 
 
+*   [Woman as an Inventor](../reading_material/matilda_effect.pdf)
+    * **Author:** Matilda Joslyn Gage
+    * **Source:** The North American Review , May, 1883, Vol. 136, No. 318 (May, 1883)
+    *  **Description:** This is the seminal essay  challenging the prevailing 19th-century prejudice that women lacked the capacity for scientific and mechanical innovation by documenting numerous instances where women were the primary creators of inventions but were denied credit or patents due to legal restrictions or social norms. This historical framework provides a direct lens for interpreting the life of Mache Papanicolaou.
+
+
 *   [Lady Andromache (Mary) Papanicolaou: The Soul of Gynecological Cytopathology](../reading_material/migrants_wife_01.pdf)
     *   **Author:** Nikolaos Chantziantoniou
     *   **Source:** *Journal of the American Society of Cytopathology* (2014).
