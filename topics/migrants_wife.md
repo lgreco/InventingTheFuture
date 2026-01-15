@@ -18,4 +18,32 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 
 ## Reading and media
 
-*
+### Journal Articles & Scholarly Papers (PDFs)
+
+*   [Lady Andromache (Mary) Papanicolaou: The Soul of Gynecological Cytopathology](../reading_material/migrants_wife_01.pdf)
+    *   **Author:** Nikolaos Chantziantoniou
+    *   **Source:** *Journal of the American Society of Cytopathology* (2014).
+    *   **Description:** This commentary highlights the selfless contributions of Mary Papanicolaou, describing her as the "hidden soul" of gynecological cytopathology and detailing her role as the first technical cytologist and first Pap test recipient.
+     
+*   [Mache/Mary](../reading_material/migrants_wife_02.pdf)
+    *   **Author:** Catherine Kim
+    *   **Source:** *Ploughshares* (Winter 2022-2023).
+    *   **Description:** A narrative account of the couple’s life, from their early days in Greece to their struggles in New York and the daily ritual of cervical sampling that led to the development of the Pap smear.
+
+*   [The History of the Papanicolaou Smear and the Odyssey of George and Andromache Papanicolaou](../reading_material/migrants_wife_03.pdf)
+    *   **Author:** George A. Vilos, MD
+    *   **Source:** *Obstetrics & Gynecology* (1998).
+    *   **Description:** This paper details the evolution of the Pap test from animal studies to a global clinical tool, emphasizing the most significant advance in 20th-century cancer control.
+
+*   [Mache Papanicolaou (1890–1982), the Dedicated Companion of the Great Benefactor](../reading_material/migrants_wife_04.pdf)
+    *   **Author:** Ioannis N. Mammas, et al.
+    *   **Source:** *Experimental and Therapeutic Medicine* (2019).
+    *   **Description:** An interview with Dr. Julie Kokkori, a relative of George Papanicolaou, focusing on Mary’s devotion and her role as his primary research subject for over 21 years.
+    
+*   [The Cancer Detectives (American Experience)](https://www.pbs.org/wgbh/americanexperience/films/cancer-detectives/)
+    *   **Source:** PBS
+    *   **Description:** A 56 minute documentary film featuring the efforts of George and Mary Papanicolaou, alongside Dr. Helen Dickens and artist Hashime Murayama, in the fight against cervical cancer.
+
+*   [Andromachi Papanikolaou](https://en.wikipedia.org/wiki/Andromachi_Papanikolaou)
+    *  **Source:** Wikipedia
+    *   **Description:** A biographical entry focusing on "Mary" Papanicolaou’s life and her volunteer efforts as an experimental subject.
