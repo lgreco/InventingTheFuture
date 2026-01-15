@@ -3,7 +3,7 @@
 
 ## Abstract
 
-Andromache “Mary” Papanicolaou was the quiet but essential force behind one of the most important medical breakthroughs of the 20th century—the Pap smear test. As the wife and lifelong research partner of Dr. George Papanicolaou, she played a pivotal, though largely unrecognized, role in the development of the test that would go on to save millions of lives by detecting cervical cancer in its early stages.
+Andromache “Mary” Papanicolaou was the quiet but essential force behind one of the most important medical breakthroughs of the 20th century—the [Pap smear test](https://en.wikipedia.org/wiki/Pap_test). As the wife and lifelong research partner of Dr. George Papanicolaou, she played a pivotal, though largely unrecognized, role in the development of the test that would go on to save millions of lives by detecting cervical cancer in its early stages.
 
 When George began his research in cytology, few believed it was possible to diagnose cancer through simple cell samples. Lacking funding and volunteers, Andromache stepped in—not only as a lab assistant but also as the very first test subject. For years, she allowed her husband to take daily cervical cell samples, patiently supporting his meticulous studies. She also worked in the lab, preparing slides, recording observations, and providing steadfast emotional and intellectual support as he struggled for scientific recognition.
 
