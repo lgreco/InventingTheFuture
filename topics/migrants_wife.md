@@ -7,7 +7,7 @@ Andromache “Mary” Papanicolaou was the quiet but essential force behind one 
 
 When George began his research in cytology, few believed it was possible to diagnose cancer through simple cell samples. Lacking funding and volunteers, Andromache stepped in—not only as a lab assistant but also as the very first test subject. For years, she allowed her husband to take daily cervical cell samples, patiently supporting his meticulous studies. She also worked in the lab, preparing slides, recording observations, and providing steadfast emotional and intellectual support as he struggled for scientific recognition.
 
-Despite the revolutionary success of the Pap smear, it was George who received the accolades, while Andromache’s contributions remained largely in the background. Yet without her unwavering dedication and belief in his work, the test might never have been developed or proven effective.
+Despite the revolutionary success of the Pap smear, it was George who received the accolades, while Andromache’s contributions remained largely in the background. Yet without her unwavering dedication, personal sacrifice, and belief in his work, the test might never have been developed or proven effective.
 
 Today, the Pap smear is a routine and life-saving part of women’s healthcare worldwide. Andromache Papanicolaou’s behind-the-scenes commitment serves as a poignant reminder of the many unsung contributors—especially women—whose invisible labor makes scientific progress possible. Her legacy endures in the lives preserved by the test she helped bring into existence.
 
@@ -29,7 +29,7 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 *   [Mache/Mary](../reading_material/migrants_wife_02.pdf)
     *   **Author:** Catherine Kim
     *   **Source:** *Ploughshares* (Winter 2022-2023).
-    *   **Description:** A narrative account of the couple’s life, from their early days in Greece to their struggles in New York and the daily ritual of cervical sampling that led to the development of the Pap smear.
+    *   **Description:** A narrative account of the couple’s life, from their early days in Greece to their struggles in New York and the daily cervical sampling that led to the development of the Pap smear.
 
 *   [The History of the Papanicolaou Smear and the Odyssey of George and Andromache Papanicolaou](../reading_material/migrants_wife_03.pdf)
     *   **Author:** George A. Vilos, MD
@@ -54,7 +54,7 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 
 
 ### 1. The "Invisible" Labor in Scientific Discovery
-A central theme here is the significant but often under-recognized contribution of collaborators who were not primary investigators. Mary Papanicolaou provided daily cervical samples for 21 years and served as the first technical cytologist, yet her name is frequently absent from the test's title. Similarly, Japanese-born artist Hashime Murayama’s watercolor illustrations were deemed vital for the medical community to identify abnormal cells, yet he faced internment on Ellis Island during WWII despite his work’s national importance.
+A central theme here is the significant but often under-recognized or unrecognized contribution of collaborators who were not primary investigators. Mary Papanicolaou provided daily cervical samples for 21 years and served as the first technical cytologist, yet her name is frequently absent from the test's title. Similarly, Japanese-born artist Hashime Murayama’s watercolor illustrations were deemed vital for the medical community to identify abnormal cells, yet he faced internment on Ellis Island during WWII despite his work’s national importance.
 *   **Discussion Question:** To what extent should individuals like Mary Papanicolaou or Hashime Murayama be considered co-inventors? How does the culture of science prioritize certain types of labor (e.g., theory and diagnosis) over others (e.g., technical support and communication)?.
 
 ### 2. Medical Distrust and Systemic Equity
@@ -87,3 +87,5 @@ Mary Papanicolaou is described in the sources as the "**hidden soul**" of gyneco
 Mary Papanicolaou joined Cornell as an **unpaid technician** because the university's policies at the time would not allow a husband and wife to be employed in the same department. This institutional barrier forced her into a role that was scientifically essential—she trained future cytotechnologists and managed lab affairs—but lacked a formal professional title or salary for much of her career.
 *   **Discussion Question:** Research other "volunteer" or "assistant" wives who provided the technical or mathematical foundations for famous male scientists, such as **Mileva Marić** (physics) or **Marie-Anne Paulze Lavoisier** (chemistry).
 
+### 8. From unacknowledged to involuntary participation in medical research
+While Mache's participation was involuntary (but unacknowledged), there are many instances in the history of medicine when participation was involuntary or forced. In 2018, the statue of surgeon J. Marion Sims was taken down from its pedestal in Central Park Sims is recognied as the father of gynechology but many of his "[medical breakthroughs came from experimenting on enslaved black women without anesthesia](https://www.npr.org/sections/thetwo-way/2018/04/17/603163394/-father-of-gynecology-who-experimented-on-slaves-no-longer-on-pedestal-in-nyc)."
