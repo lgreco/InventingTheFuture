@@ -62,7 +62,7 @@ A central theme here is the significant but often under-recognized or unrecogniz
 *   **Discussion Question:** To what extent should individuals like Mary Papanicolaou or Hashime Murayama be considered co-inventors? How does the culture of science prioritize certain types of labor (e.g., theory and diagnosis) over others (e.g., technical support and communication)?.
 
 ### 2. Medical Distrust and Systemic Equity
-Scientific breakthroughs do not reach all populations equally. Dr. Helen Dickens, the first Black female OBGYN in Philadelphia, faced the "lie" that Black women did not get cervical cancer and had to overcome deep community distrust rooted in histories of medical mistreatment and forced sterilizations (often called "Mississippi appendectomies").
+Scientific breakthroughs do not reach all populations equally. [Dr. Helen Dickens](https://en.wikipedia.org/wiki/Helen_Octavia_Dickens), the first Black female OBGYN in Philadelphia, faced the "lie" that Black women did not get cervical cancer and had to overcome deep community distrust rooted in histories of medical mistreatment and forced sterilizations (often called "Mississippi appendectomies").
 
 *   **Discussion Question:** How did Dr. Dickens’ approach of medical activism—going into churches and using mobile vans—differ from the mainstream American Cancer Society campaigns?. How do past medical atrocities continue to influence the rollout of preventative healthcare in marginalized communities today?.
 
