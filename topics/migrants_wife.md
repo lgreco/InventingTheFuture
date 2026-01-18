@@ -47,7 +47,11 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 
 *   [Andromachi Papanikolaou](https://en.wikipedia.org/wiki/Andromachi_Papanikolaou)
     *  **Source:** Wikipedia
-    *   **Description:** A biographical entry focusing on "Mary" Papanicolaou’s life and her volunteer efforts as an experimental subject.
+    *  **Description:** A biographical entry focusing on "Mary" Papanicolaou’s life and her volunteer efforts as an experimental subject.
+
+*   [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas)
+    **Source:** Wikipedia
+    **Description:** Vivien Thomas was another medical pioneer. It took a very long time for his contributions to finally be acknowledged.
 
 
 ## Discussion points
