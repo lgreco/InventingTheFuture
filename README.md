@@ -10,6 +10,10 @@ Topics include neural networks (inspired by a bourbon-fueled janitor at UChicago
 
 This is history told through invention. And invention told through people.
 
+## Spring 2026 topics in order of study
+
+Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md)
+
 ## Contents (alphabetically)
 
 * [**Artificial Intelligence**](./topics/ai.md) 
