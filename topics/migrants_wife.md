@@ -51,7 +51,7 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
 
 *   [Vivien Thomas](https://en.wikipedia.org/wiki/Vivien_Thomas)
     * **Source:** Wikipedia
-    * **Description:** Vivien Thomas was another medical pioneer. It took a very long time for his contributions to finally be acknowledged.
+    * **Description:** Vivien Thomas was a pioneer in the design of surgical instrumentation. It took a very long time for his contributions to finally be acknowledged.
 
 
 ## Discussion points
