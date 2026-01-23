@@ -21,7 +21,7 @@ Today, the Pap smear is a routine and life-saving part of women’s healthcare w
     *  **Description:** This essay challenged the prevailing 19th-century prejudice that women lacked the capacity for scientific and mechanical innovation. The term *[Matilda Effect](https://en.wikipedia.org/wiki/Matilda_effect)* recognizes the seminal contribution of this paper.
 
 
-*   [Lady Andromache (Mary) Papanicolaou: The Soul of Gynecological Cytopathology](../reading_material/migrants_wife_01.pdf)
+*   [Lady Andromache (Mary) Papanicolaou: The Soul of Gynecological Cytopathology](../reading_material/migrants_wife_matilda_effect.pdf)
     *   **Author:** Nikolaos Chantziantoniou
     *   **Source:** *Journal of the American Society of Cytopathology* (2014).
     *   **Description:** This commentary highlights the selfless contributions of Mary Papanicolaou, describing her as the "hidden soul" of gynecological cytopathology and detailing her role as the first technical cytologist and first Pap test recipient.
