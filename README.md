@@ -12,7 +12,7 @@ This is history told through invention. And invention told through people.
 
 ## Spring 2026 topics in order of study
 
-Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md)
+Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Carpenter Timekeeper](./topics/carpenter_timekeeper.md)
 
 ## Contents (alphabetically)
 
