@@ -1,5 +1,7 @@
 # The Other German Printer
 
+![](../images/1920px-The_Linotype.webp.png)
+*Advertisement for Mergenthaler Linotype Company from 1900. (Source: Wikipedia)*
 
 ## Foreword
 
