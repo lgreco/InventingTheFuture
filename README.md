@@ -12,7 +12,7 @@ This is history told through invention. And invention told through people.
 
 ## Spring 2026 topics in order of study
 
-Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) | [The Other German Printer](https://github.com/lgreco/InventingTheFuture/blob/main/topics/the_other_german_printer.md) |
+Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) | [The Other German Printer](https://github.com/lgreco/InventingTheFuture/blob/main/topics/the_other_german_printer.md) | [Operation Paperclip](./topics/operation_paperclip_pays_off.md)
 
 ## Contents (alphabetically)
 
