@@ -22,19 +22,15 @@ This comprehensive government document serves as the definitive report to Congre
 
 Link: [https://en.wikipedia.org/wiki/Operation_Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip)
 
-This source provides a broad overview of the secret intelligence program that brought more than 1,600 German specialists and their families to the United States to work in military and government positions. It outlines the program's origins in Operation Overcast, the discovery of the Osenberg List, and the pivotal role these recruits played in the Apollo missions and the development of the U.S. space program.
+A broad overview of the secret intelligence program that brought more than 1,600 German specialists and their families to the United States to work in military and government positions. It outlines the program's origins in Operation Overcast, the discovery of the Osenberg List, and the pivotal role these recruits played in the Apollo missions and the development of the U.S. space program.
 
 ### 3. Managing Complicity: Two German Doctors and the United States in the Twentieth Century (Vaughn Thesis)
 
 Link: [https://ir.library.oregonstate.edu/downloads/x346dd29w?locale=en](https://ir.library.oregonstate.edu/downloads/x346dd29w?locale=en)
 
-A scholarly master’s thesis that investigates the pre-war and post-war connections between U.S. institutions and two specific doctors, Hubertus Strughold and Walter Schreiber. The work focuses on the "great moral compromise" made by U.S. officials who shielded these men from prosecution for war crimes in order to exploit their medical research during the Cold War.
+A master’s thesis that investigates the pre-war and post-war connections between U.S. institutions and two specific doctors, Hubertus Strughold and Walter Schreiber. The work focuses on the "great moral compromise" made by U.S. officials who shielded these men from prosecution for war crimes in order to exploit their medical research during the Cold War.
 
-### 4. The Architecture of Necessity: A Comprehensive Analysis of Operation Paperclip
-
-Link: [Internal source: The Architecture of Necessity]
-
-This detailed analysis describes the "intellectual reparations" seized by the Allies and the strategic mobilization of German intellectual capital following the fall of the Third Reich. It examines the administrative shift from field intelligence gathering to a structured recruitment program coordinated by the Joint Intelligence Objectives Agency (JIOA).
+### 4. (source removed)
 
 ### 5. Unlocking the Gates to Skilled Immigration Through Project Paperclip, 1945 to 1947 (Schroeder Thesis)
 
