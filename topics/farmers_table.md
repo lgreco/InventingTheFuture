@@ -1,9 +1,11 @@
 # Farmer's Table
 
 <center>
+
 ![](../images/thf152426.jpg)
 
 Henry Ford tried his first experimental engine, pictured here, after eating dinner on Christmas Eve on 1893. Photo courtesy of [The Henry Ford museum](https://www.thehenryford.org/collections-and-research/digital-collections/artifact/224715/).
+
 </center>
 
 ## Abstract
