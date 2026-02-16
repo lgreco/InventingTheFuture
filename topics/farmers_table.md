@@ -170,6 +170,8 @@ You might structure the Farmer’s Table session around:
 * **[From the Farm to the Factory: Henry Ford’s Rural Roots and Industrial Vision – The Henry Ford Digital Collections](https://www.thehenryford.org/collections-and-research/digital-collections/expert-sets/7139/)**
   This curated set traces Ford’s journey from farm life to industrial leadership, using primary artifacts at The Henry Ford. 
 
+* **[The Story of Henry Ford’s $5-a-Day Wages: It’s Not What You Think – *Forbes*](https://www.forbes.com/sites/timworstall/2012/03/04/the-story-of-henry-fords-5-a-day-wages-its-not-what-you-think/)**
+  This article challenges the popular narrative that Ford’s famous $5-a-day wage was purely altruistic, arguing instead that it was a strategic response to labor instability and productivity concerns. 
 
 * **[American Experience: Henry Ford – PBS](https://www.pbs.org/wgbh/americanexperience/films/henryford/)**
   Companion materials and clips from the PBS documentary examining Ford’s industrial achievements alongside labor practices and ideological complexities. Ideal for introducing tension into the hero narrative.
