@@ -155,29 +155,50 @@ You might structure the Farmer’s Table session around:
 ## Reading and media
 
 
-* **[Henry Ford Biography – The Henry Ford Museum](https://www.thehenryford.org/explore/stories-of-innovation/people/henry-ford/)**
-  A concise institutional biography emphasizing Ford’s upbringing on a Michigan farm and his early mechanical curiosity. Useful for grounding the “kitchen table tinkerer” narrative in historical detail.
+* **[The Henry Ford](https://www.thehenryford.org/history-and-mission/)**
+  A museum Henry Ford founded. It chronicles American innovation and ingenuity. If you ever have the time for a road trip to Detroit, this is one of the best museum experiences ever!
 
 * **[Henry Ford – History.com](https://www.history.com/topics/inventions/henry-ford)**
-  A student-friendly overview of Ford’s life, from the Quadricycle to the Model T and assembly line. Good for quickly establishing the narrative arc from experimenter to industrial magnate.
+  A review of Ford’s life, from the Quadricycle to the Model T and assembly line. 
 
 * **[Henry Ford – Encyclopaedia Britannica](https://www.britannica.com/biography/Henry-Ford)**
-  A more analytical entry that situates Ford within broader industrial history while addressing both his achievements and controversies. Helpful for moving beyond the lone-genius myth.
+  A more analytical entry that situates Ford within broader industrial history while addressing both his achievements and controversies. 
 
-* **[The 1896 Ford Quadricycle – The Henry Ford Digital Collections](https://www.thehenryford.org/collections-and-research/digital-collections/artifact/279929/)**
+* **[The 1896 Ford Quadricycle – The Henry Ford Digital Collections](https://www.thehenryford.org/explore/blog/engines-exposed-1896-ford-quadricycle/)**
   Focuses on Ford’s first successful gasoline-powered vehicle, built through iterative experimentation. Anchors discussion in a specific artifact that began as a hands-on engineering project.
 
-* **[How Henry Ford Put the World on Wheels – Smithsonian Magazine](https://www.smithsonianmag.com/history/how-henry-ford-put-the-world-on-wheels-180972077/)**
-  Explains how the assembly line transformed production, affordability, and American life. Strong for connecting technical process innovation to large-scale social change.
+* **[From the Farm to the Factory: Henry Ford’s Rural Roots and Industrial Vision – The Henry Ford Digital Collections](https://www.thehenryford.org/collections-and-research/digital-collections/expert-sets/7139/)**
+  This curated set traces Ford’s journey from farm life to industrial leadership, using primary artifacts at The Henry Ford. 
+
 
 * **[American Experience: Henry Ford – PBS](https://www.pbs.org/wgbh/americanexperience/films/henryford/)**
   Companion materials and clips from the PBS documentary examining Ford’s industrial achievements alongside labor practices and ideological complexities. Ideal for introducing tension into the hero narrative.
 
-* **[MIT Technology Review – Innovation & Technology History](https://www.technologyreview.com/topic/history/)**
-  Articles exploring how technological breakthroughs emerge within ecosystems rather than isolation. Useful for connecting Ford’s tinkering to broader innovation theory.
+* **[Work in Late 19th Century](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/work-in-late-19th-century/)**
+   Explores how industrialization reshaped labor, from factory work and mechanization to the rise of labor unions and urban working conditions. It provides primary sources that illuminate the tensions between efficiency, wages, worker autonomy, and emerging corporate power.
 
-* **[Stanford Social Innovation Review – Innovation & Systems Change](https://ssir.org/topics/category/innovation)**
-  Explores how innovations scale and reshape institutions. Helpful for framing Ford’s assembly line as not just a technical shift, but a systemic one.
 
-* **[The Rise of Industrial America (1876–1900) – Library of Congress](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/)**
-  Primary documents and historical context situating Ford within the larger wave of American industrialization. Excellent for connecting individual experimentation to structural transformation.
+* **[Rural Life in Late 19th Century](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/rural-life-in-late-19th-century/)**
+   Examines daily life on American farms during a period of technological transition and economic uncertainty. Through photographs and documents, it highlights the pressures facing farmers—mechanization, market dependence, and isolation—that form the backdrop to figures like Ford experimenting beyond traditional agriculture.
+
+
+* **[The Consumer Rising: From Consumption to Production to Design – Stanford Social Innovation Review](https://ssir.org/articles/entry/consumer_rising_from_consumption_to_production_to_design)**
+  This article traces the historical shift from passive consumption to participatory production and user-driven design. In studying Henry Ford’s impact on Science and Society, it helps frame how mass production first empowered consumers through affordability—while today’s design culture pushes beyond Fordism toward distributed innovation and co-creation.
+
+* **[Can Corporations Inspire Social Good? – Stanford Social Innovation Review](https://ssir.org/articles/entry/can_corporations_inspire_social_good)**
+  This article examines whether large corporations can be engines of meaningful social progress rather than merely profit-maximizing institutions. In studying Henry Ford’s impact on Science and Society, it provides a useful lens for evaluating whether industrial giants like Ford Motor Company democratized opportunity—or reshaped society primarily on corporate terms.
+
+* **[Deploying Proven Technology for Climate Change – Stanford Social Innovation Review](https://ssir.org/articles/entry/deploying_proven_technology_for_climate_change)**
+  This article argues that large-scale social impact often depends less on breakthrough invention and more on deploying and scaling technologies that already exist. In studying Henry Ford’s impact on Science and Society, it reinforces the idea that Ford’s true revolution was not inventing the automobile, but transforming its production and distribution—turning technical possibility into systemic societal change.
+
+* **[Ford Gets 6 Cents and Trial Costs in Tribune Suit – *The New York Times* (1919)](https://www.nytimes.com/1919/08/15/archives/ford-gets-6-cents-and-trial-costs-in-tribune-suit-chicago-paper.html)**
+  This contemporary account of Ford’s libel suit against the *Chicago Tribune* reveals how his public persona, political views, and influence extended far beyond manufacturing. The case highlights how technological authority can spill into cultural and political power—and how industrial leaders shape (and are shaped by) public discourse.
+
+  Also available: **[the full archive](https://findingaids.library.northwestern.edu/repositories/7/resources/1452)** of the lawsuit; **[Weymouth Kirkland's account](../reading_material/Kirkland-AMERICANCAUSESCELEBRES-1923.pdf)**  of the lawsuit.
+
+
+
+
+
+
+   
