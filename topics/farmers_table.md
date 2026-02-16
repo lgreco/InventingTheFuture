@@ -136,7 +136,7 @@ Discussion:
 
 ---
 
-## 🧩 Framing Questions for Discussion
+## Framing Questions for Discussion
 
 You might structure the Farmer’s Table session around:
 
