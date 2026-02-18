@@ -95,7 +95,7 @@ Class attendance, participation, and engagement make up 50% of the course grade.
 
 ## Reading and media list
 
-Each topic has its own reading and media listing. In addition that those resources, the following are good sources of information especially prior to the beginning of the course.
+Each topic has its own reading and media listing. In addition to those resources, the following are good sources of information especially prior to the beginning of the course.
 
 ### Video
 
