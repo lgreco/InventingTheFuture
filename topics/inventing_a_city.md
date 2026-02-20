@@ -172,7 +172,7 @@ The “invention of Chicago” was not just about rebuilding—it was about reim
 
 ### A Bubbly Creek
 
-Where else can you find something like this but Chicago? A river that *bubbles* — not from geothermal springs or volcanic vents — but from decomposing animal waste. Only in the city that industrialized everything, including gravity and water flow, could you produce a creek so saturated with the byproducts of capitalism that it literally effervesced.
+Where else can you find something like this but Chicago? A smelly river that *bubbles* — not from geothermal springs or volcanic vents — but from decomposing animal waste. Only in the city that industrialized everything, including gravity and water flow, could you produce a creek so saturated with the byproducts of capitalism that it literally effervesced.
 
 Welcome to **Bubbly Creek**, a branch of the South Fork of the Chicago River that runs along what was once the Union Stock Yards. In the late nineteenth and early twentieth centuries, this stretch of water became the unofficial holding tank for America’s appetite. Slaughterhouses lining the banks of the yards processed millions of cattle and hogs annually. The blood, fat, entrails, and chemical waste that could not be rendered or sold were simply discharged into the river. The result: a thick stew of organic refuse that, as it decomposed anaerobically, released methane and other gases. The surface churned. The water burped. Hence the name.
 
