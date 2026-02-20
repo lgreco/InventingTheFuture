@@ -807,8 +807,11 @@ A chronological list of Chicago’s most consequential engineering achievements.
 
 ## Reading and media
 
+
 * *City of the Century: The Epic of Chicago and the Making of America,* by Donald L Miller.<br/>
 The book traces Chicago’s explosive rise from a muddy frontier outpost in the 1830s to a dominant industrial metropolis by the early twentieth century. Miller emphasizes the city’s entrepreneurial energy, infrastructural ambition, and raw volatility. Railroads, grain markets, steel, and meatpacking transformed Chicago into the economic hinge of the American interior, while figures such as Pullman and Burnham shaped its industrial and architectural identity. Interwoven with this ascent are labor unrest, political corruption, and social inequality, revealing Chicago as both engine of national progress and crucible of modern urban conflict.
+
+* *[City of the Century](https://www.pbs.org/wgbh/americanexperience/films/chicago/)*, a PBS documentary based on the book above.
 
 * *The Jungle* (1906) by Upton Sinclair.<br/>
 Set in Chicago’s Union Stock Yards, *The Jungle* follows Lithuanian immigrant Jurgis Rudkus as he and his family confront the brutal realities of industrial labor. Sinclair exposes unsafe working conditions, wage exploitation, and the corruption embedded in the meatpacking industry. While intended as a socialist critique of capitalism, the novel became famous for its graphic depiction of contaminated food production, shocking readers nationwide and prompting federal reforms such as the Meat Inspection Act of 1906.
