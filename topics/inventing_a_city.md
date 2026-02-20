@@ -764,38 +764,6 @@ In July 1919, racial tensions erupted after a Black teenager, Eugene Williams, d
 
 On July 24, 1915, the passenger steamer *Eastland* capsized in the Chicago River while docked, killing 844 people—many of them Western Electric employees on a company outing. The tragedy remains one of the deadliest maritime disasters in U.S. history. Ironically, safety retrofits mandated after the Titanic disaster contributed to the vessel’s instability. The event revealed regulatory failures and the risks embedded in industrial-era mass recreation. Overshadowed nationally by World War I, the disaster remains one of Chicago’s most devastating but least publicly memorialized tragedies.
 
----
-
-Chicago’s darkest moments often coincide with periods of rapid transformation—war, industrialization, migration, or technological expansion. Each tragedy exposed structural pressures that accompanied the city’s rise to prominence.
-
-
-## Reading and media
-
-* *City of the Century: The Epic of Chicago and the Making of America,* by Donald L Miller.<br/>
-The book traces Chicago’s explosive rise from a muddy frontier outpost in the 1830s to a dominant industrial metropolis by the early twentieth century. Miller emphasizes the city’s entrepreneurial energy, infrastructural ambition, and raw volatility. Railroads, grain markets, steel, and meatpacking transformed Chicago into the economic hinge of the American interior, while figures such as Pullman and Burnham shaped its industrial and architectural identity. Interwoven with this ascent are labor unrest, political corruption, and social inequality, revealing Chicago as both engine of national progress and crucible of modern urban conflict.
-
-* *The Jungle* (1906) by Upton Sinclair.<br/>
-Set in Chicago’s Union Stock Yards, *The Jungle* follows Lithuanian immigrant Jurgis Rudkus as he and his family confront the brutal realities of industrial labor. Sinclair exposes unsafe working conditions, wage exploitation, and the corruption embedded in the meatpacking industry. While intended as a socialist critique of capitalism, the novel became famous for its graphic depiction of contaminated food production, shocking readers nationwide and prompting federal reforms such as the Meat Inspection Act of 1906.
-
-* *The Devil in the White City* (2003) by Erik Larson<br/>
-Larson interweaves two narratives set during the 1893 World’s Columbian Exposition: architect Daniel Burnham’s effort to construct the “White City,” and serial killer H. H. Holmes’s parallel crimes amid the fair’s crowds. The book juxtaposes visionary urban planning with dark criminal opportunism, illustrating Chicago at a moment of global ascendance and moral complexity.
-
-
-* *Native Son* (1940) by Richard Wright<br/>
-Set on Chicago’s South Side, *Native Son* follows Bigger Thomas, a young Black man constrained by systemic racism and poverty. After a violent accident spirals into tragedy, Wright examines how structural inequality shapes identity, fear, and agency. The novel situates Chicago as a site of modern racial segregation and psychological tension, rooted in housing discrimination and economic exclusion during the Great Migration era.
-
-
-
-
-* *Nature’s Metropolis: Chicago and the Great West* (1991) by William Cronon</br>
-Cronon reframes Chicago not as an isolated city but as the organizing center of a vast regional economy. He argues that railroads, grain elevators, lumber markets, and commodities exchanges transformed both the city and the rural hinterland in mutually constitutive ways. Chicago did not merely grow because of the West; it actively structured western agriculture and extraction through market mechanisms and transportation systems. The book situates Chicago within environmental history, showing how nature, capital, and infrastructure became interdependent in the making of modern America.
-
-* *Making the Second Ghetto: Race and Housing in Chicago, 1940–1960* (1983) by Arnold R. Hirsch</br>
-Hirsch examines how mid-twentieth-century housing policy, urban renewal, and political decisions institutionalized racial segregation in Chicago. Rather than viewing segregation as organic or accidental, he demonstrates how municipal governance, real estate interests, and federal programs collaborated in constructing the “second ghetto.” The book traces how public housing placement and redevelopment policies reinforced racial boundaries during and after the Great Migration.
-
-* *American Project: The Rise and Fall of a Modern Ghetto* (2000) by Sudhir Venkatesh
-Venkatesh offers an ethnographic study of the Robert Taylor Homes on Chicago’s South Side, one of the largest public housing projects in the United States. Drawing on years of fieldwork, he examines how residents navigated poverty, informal economies, gang structures, welfare systems, and institutional neglect. Rather than portraying the neighborhood as socially chaotic, Venkatesh reveals intricate networks of survival and governance operating within constrained conditions. The book situates the rise of concentrated urban poverty within broader federal housing policy, deindustrialization, and the political choices that reshaped Chicago in the late twentieth century.
-
 
 ---
 
@@ -832,6 +800,38 @@ A chronological list of Chicago’s most consequential engineering achievements.
 * **Deep Tunnel Project (TARP)** (1970s–present). Massive underground reservoir and tunnel network designed to manage stormwater and reduce flooding — a subterranean infrastructural megaproject.
 
 * **Aqua Tower** (2009). Integrated structural design and environmental performance through wind-modulating balconies and mixed-use vertical density, representing contemporary high-rise innovation.
+
+---
+
+
+
+## Reading and media
+
+* *City of the Century: The Epic of Chicago and the Making of America,* by Donald L Miller.<br/>
+The book traces Chicago’s explosive rise from a muddy frontier outpost in the 1830s to a dominant industrial metropolis by the early twentieth century. Miller emphasizes the city’s entrepreneurial energy, infrastructural ambition, and raw volatility. Railroads, grain markets, steel, and meatpacking transformed Chicago into the economic hinge of the American interior, while figures such as Pullman and Burnham shaped its industrial and architectural identity. Interwoven with this ascent are labor unrest, political corruption, and social inequality, revealing Chicago as both engine of national progress and crucible of modern urban conflict.
+
+* *The Jungle* (1906) by Upton Sinclair.<br/>
+Set in Chicago’s Union Stock Yards, *The Jungle* follows Lithuanian immigrant Jurgis Rudkus as he and his family confront the brutal realities of industrial labor. Sinclair exposes unsafe working conditions, wage exploitation, and the corruption embedded in the meatpacking industry. While intended as a socialist critique of capitalism, the novel became famous for its graphic depiction of contaminated food production, shocking readers nationwide and prompting federal reforms such as the Meat Inspection Act of 1906.
+
+* *The Devil in the White City* (2003) by Erik Larson<br/>
+Larson interweaves two narratives set during the 1893 World’s Columbian Exposition: architect Daniel Burnham’s effort to construct the “White City,” and serial killer H. H. Holmes’s parallel crimes amid the fair’s crowds. The book juxtaposes visionary urban planning with dark criminal opportunism, illustrating Chicago at a moment of global ascendance and moral complexity.
+
+
+* *Native Son* (1940) by Richard Wright<br/>
+Set on Chicago’s South Side, *Native Son* follows Bigger Thomas, a young Black man constrained by systemic racism and poverty. After a violent accident spirals into tragedy, Wright examines how structural inequality shapes identity, fear, and agency. The novel situates Chicago as a site of modern racial segregation and psychological tension, rooted in housing discrimination and economic exclusion during the Great Migration era.
+
+
+
+
+* *Nature’s Metropolis: Chicago and the Great West* (1991) by William Cronon</br>
+Cronon reframes Chicago not as an isolated city but as the organizing center of a vast regional economy. He argues that railroads, grain elevators, lumber markets, and commodities exchanges transformed both the city and the rural hinterland in mutually constitutive ways. Chicago did not merely grow because of the West; it actively structured western agriculture and extraction through market mechanisms and transportation systems. The book situates Chicago within environmental history, showing how nature, capital, and infrastructure became interdependent in the making of modern America.
+
+* *Making the Second Ghetto: Race and Housing in Chicago, 1940–1960* (1983) by Arnold R. Hirsch</br>
+Hirsch examines how mid-twentieth-century housing policy, urban renewal, and political decisions institutionalized racial segregation in Chicago. Rather than viewing segregation as organic or accidental, he demonstrates how municipal governance, real estate interests, and federal programs collaborated in constructing the “second ghetto.” The book traces how public housing placement and redevelopment policies reinforced racial boundaries during and after the Great Migration.
+
+* *American Project: The Rise and Fall of a Modern Ghetto* (2000) by Sudhir Venkatesh
+Venkatesh offers an ethnographic study of the Robert Taylor Homes on Chicago’s South Side, one of the largest public housing projects in the United States. Drawing on years of fieldwork, he examines how residents navigated poverty, informal economies, gang structures, welfare systems, and institutional neglect. Rather than portraying the neighborhood as socially chaotic, Venkatesh reveals intricate networks of survival and governance operating within constrained conditions. The book situates the rise of concentrated urban poverty within broader federal housing policy, deindustrialization, and the political choices that reshaped Chicago in the late twentieth century.
+
 
 
 ---
