@@ -19,6 +19,10 @@ By the early 20th century, Chicago had reinvented itself as a premier American m
 
 The “invention of Chicago” was not just about rebuilding—it was about reimagining what a city could be. Guided by bold planning and driven by industrial ambition, Chicago emerged as a symbol of resilience, innovation, and the modern American urban experience.
 
+
+**<mark>Reading material is available after the following list of discussion points.</mark>**
+
+
 ## Discussion points: Chicago as an Invented City
 
 
