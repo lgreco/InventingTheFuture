@@ -10,6 +10,7 @@
 
 </center>
 
+
 ## Abstract
 
 After the Great Fire of 1871 devastated much of Chicago, the city embarked on one of the most ambitious rebuilding projects in American history—an effort that transformed it from a smoldering ruin into a modern industrial and cultural powerhouse. Central to this reinvention was Daniel Burnham, whose 1909 Plan of Chicago laid the blueprint for a visionary, orderly metropolis. With wide boulevards, lakefront parks, civic centers, and infrastructure to support growth, Burnham’s plan fused aesthetics with utility, shaping both the physical and aspirational contours of the city.
@@ -728,3 +729,8 @@ Hirsch examines how mid-twentieth-century housing policy, urban renewal, and pol
 
 * *American Project: The Rise and Fall of a Modern Ghetto* (2000) by Sudhir Venkatesh
 Venkatesh offers an ethnographic study of the Robert Taylor Homes on Chicago’s South Side, one of the largest public housing projects in the United States. Drawing on years of fieldwork, he examines how residents navigated poverty, informal economies, gang structures, welfare systems, and institutional neglect. Rather than portraying the neighborhood as socially chaotic, Venkatesh reveals intricate networks of survival and governance operating within constrained conditions. The book situates the rise of concentrated urban poverty within broader federal housing policy, deindustrialization, and the political choices that reshaped Chicago in the late twentieth century.
+
+
+---
+
+*Note: For a uniform presentation of the material, I created a chatGPT agent to organize and format everything. I have double-checked the content and it seems fine -- if you see something weird, please let me know.*
