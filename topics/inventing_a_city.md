@@ -73,7 +73,7 @@ The “invention of Chicago” was not just about rebuilding—it was about reim
 **Evidence prompts**
 
 * **Burnham:** 1909 plan as blueprint for an orderly metropolis
-* **World’s Fair references in your write-up:** Chicago presenting itself as globally modern
+* **World’s Fair:** Chicago presenting itself as globally modern
 * **Fire:** rebuilding momentum enabling large-scale re-imagining
 
 
