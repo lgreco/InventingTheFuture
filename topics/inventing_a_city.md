@@ -822,7 +822,7 @@ The book traces Chicago’s explosive rise from a muddy frontier outpost in the 
 
 * *[Legendary Blizzars](https://www.wttw.com/chicago-stories/legendary-blizzards)*, a PBS documentary about the city's most consequential storms.
 
-* *[Rise and Fall of Mail Order Giants](https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants), a PBS documentary about the one of the city's most characteristics industries.
+* *[Rise and Fall of Mail Order Giants](https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants),* a PBS documentary about the one of the city's most characteristics industries.
 
 * *[The Race to Reverse the River](https://www.wttw.com/chicago-stories/race-to-reverse-the-river)*, a PBS documentary.
 
