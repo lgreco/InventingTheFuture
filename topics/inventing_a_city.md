@@ -284,6 +284,8 @@ Throughout, Burnham frames the Plan as both visionary and attainable. He appeals
 
 ### A Model Community
 
+[Pullman and the Railroad Rebellion](https://www.wttw.com/chicago-stories/pullman-and-the-railroad-rebellion), a PBS documentary.
+
 The rise and fall of Pullman, Illinois, offers a compact case study in industrial paternalism, labor conflict, and the limits of corporate social engineering. Founded in the 1880s by industrialist **George Pullman**, the town was built adjacent to his Pullman Palace Car Company on Chicago’s South Side. Conceived after the Great Railroad Strike of 1877, Pullman’s model community was intended to harmonize capital and labor by providing orderly housing, sanitation, green space, and cultural amenities for workers. Architect Solon S. Beman designed brick row houses, a hotel, library, arcade, and church, all arranged within a carefully regulated environment. Pullman prohibited independent newspapers, town meetings, and saloons; rents were deducted directly from wages. The town embodied a Progressive-era belief that environment could shape moral and economic behavior.
 
 Pullman initially attracted national and international praise as a demonstration of enlightened industrial planning. Yet its structural tensions became apparent during the economic depression of 1893. When railcar orders collapsed, Pullman reduced wages but refused to lower rents or utility charges in the company-owned town. Workers, led by Eugene V. Debs and the American Railway Union, struck in 1894. The **Pullman Strike** escalated into a nationwide rail stoppage, prompting federal intervention and the deployment of troops. The conflict left dozens dead and crystallized debates over labor rights, corporate authority, and the role of the state. A federal commission later criticized Pullman’s paternalism as incompatible with democratic citizenship, and the Illinois Supreme Court ordered the company to divest its residential properties.
@@ -812,6 +814,10 @@ A chronological list of Chicago’s most consequential engineering achievements.
 The book traces Chicago’s explosive rise from a muddy frontier outpost in the 1830s to a dominant industrial metropolis by the early twentieth century. Miller emphasizes the city’s entrepreneurial energy, infrastructural ambition, and raw volatility. Railroads, grain markets, steel, and meatpacking transformed Chicago into the economic hinge of the American interior, while figures such as Pullman and Burnham shaped its industrial and architectural identity. Interwoven with this ascent are labor unrest, political corruption, and social inequality, revealing Chicago as both engine of national progress and crucible of modern urban conflict.
 
 * *[City of the Century](https://www.pbs.org/wgbh/americanexperience/films/chicago/)*, a PBS documentary about the city, losely related to the book above.
+
+* *[Legendary Blizzars](https://www.wttw.com/chicago-stories/legendary-blizzards)*, a PBS documentary about the city's most consequential storms.
+
+* *[Rise and Fall of Mail Order Giants]](https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants), a PBS documentary about the one of the city's most characteristics industries.
 
 * *The Jungle* (1906) by Upton Sinclair.<br/>
 Set in Chicago’s Union Stock Yards, *The Jungle* follows Lithuanian immigrant Jurgis Rudkus as he and his family confront the brutal realities of industrial labor. Sinclair exposes unsafe working conditions, wage exploitation, and the corruption embedded in the meatpacking industry. While intended as a socialist critique of capitalism, the novel became famous for its graphic depiction of contaminated food production, shocking readers nationwide and prompting federal reforms such as the Meat Inspection Act of 1906.
