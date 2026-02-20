@@ -126,7 +126,7 @@ The “invention of Chicago” was not just about rebuilding—it was about reim
 **Evidence prompts**
 
 * **Immigration:** demographic dominance of foreign-born Chicago, neighborhood clustering
-* **Jane Addams/Hull House (in your movers section):** settlement house responses to immigrant life
+* **Jane Addams/Hull House:** settlement house responses to immigrant life
 * **Fire:** rebuilding pull-factor and labor demand
 
 
