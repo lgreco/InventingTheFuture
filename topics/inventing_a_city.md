@@ -799,4 +799,41 @@ Venkatesh offers an ethnographic study of the Robert Taylor Homes on Chicago’s
 
 ---
 
+### Engineering feats
+
+A chronological list of Chicago’s most consequential engineering achievements.
+
+* **Illinois & Michigan Canal** (1848). Connected the Great Lakes to the Mississippi watershed, transforming Chicago from frontier outpost into continental hinge of trade and migration.
+
+* **Chicago Water Cribs** (1850s onward). Offshore intake structures that drew clean water from Lake Michigan, allowing the city to separate drinking water from polluted shoreline runoff and enabling large-scale urban growth.
+
+* **Union Stock Yards** (1865). Industrialized livestock processing through rail integration, refrigeration, and vertical organization, turning Chicago into the meatpacking capital of the world.
+
+* **Rebuilding After the Great Fire** (1871–1880s). Rapid reconstruction using fireproof materials and emerging steel-frame techniques, catalyzing modern skyscraper development.
+
+* **Monadnock Building Structural Transition** (1891–1893). Marked the shift from massive load-bearing masonry to steel-frame construction, signaling the birth of skeletal skyscraper design.
+
+* **Chicago “L” Elevated Transit System** (1892). One of the earliest elevated rapid transit systems, structuring urban expansion around a centralized loop and spoke model.
+
+* **Chicago Sanitary and Ship Canal (River Reversal)** (1900). Reversed the flow of the Chicago River to protect drinking water and connect the Great Lakes to the Mississippi system — a continental-scale hydraulic intervention.
+
+* **Grant Park & Lakefront Engineering** (early 1900s). Landfill expansion and shoreline stabilization projects that transformed marshland and industrial edges into civic parkland.
+
+* **Michigan Avenue Bridge (DuSable Bridge)** (1920). A double-deck, bascule bridge integrating automobile and pedestrian flows, anchoring the city’s north-south commercial spine.
+
+* **Tribune Tower & Skyscraper Competition Era** (1925). Structural steel and caisson foundation advancements supporting Gothic verticality, symbolizing the press as civic institution.
+
+* **Merchandise Mart** (1930). At completion, the world’s largest building by floor area — an integrated wholesale marketplace demonstrating scale engineering and commercial coordination.
+
+* **875 North Michigan Avenue (John Hancock Center)** (1969). Introduced the expressive exterior X-braced structural system, reducing material use while increasing height and stiffness.
+
+* **Willis Tower (Sears Tower)** (1973). Fazlur Khan’s bundled tube system enabled unprecedented height with structural efficiency, redefining global skyscraper engineering.
+
+* **Deep Tunnel Project (TARP)** (1970s–present). Massive underground reservoir and tunnel network designed to manage stormwater and reduce flooding — a subterranean infrastructural megaproject.
+
+* **Aqua Tower** (2009). Integrated structural design and environmental performance through wind-modulating balconies and mixed-use vertical density, representing contemporary high-rise innovation.
+
+
+---
+
 *Note: For a uniform presentation of the material, I created a chatGPT agent to organize and format everything. I have double-checked the content and it seems fine -- if you see something weird, please let me know.*
