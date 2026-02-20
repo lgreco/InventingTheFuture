@@ -221,6 +221,8 @@ To describe Chicago as a dominant component of the Great Lakes megalopolis is th
 
 ### The Great Chicago Fire of 1871: Disaster and Urban Reinvention
 
+[https://www.wttw.com/chicago-stories/chicago-fire](The Great Chicago Fire), a WTTW story.
+
 On the evening of **October 8, 1871**, a fire broke out on the southwest side of **Chicago, Illinois**, beginning what would become one of the most consequential urban conflagrations in American history. Over the next **36 hours**, the blaze consumed large swaths of the city, killing an estimated **300 people**, destroying roughly **17,000–18,000 buildings**, and leaving **nearly 100,000 residents homeless** out of a population of approximately 330,000. The disaster erased more than **3.3 square miles** of urban fabric, including the central business district, residential areas, and city infrastructure. Although the iconic legend of **Mrs. O’Leary’s cow knocking over a lantern** has endured, the true cause of the fire has never been definitively established. ([Wikipedia][1])
 
 The conflagration’s rapid spread was the product of a perfect storm of environmental and structural conditions. Months of drought had left the city, then largely constructed of wood—including buildings, sidewalks, and streets—exceptionally dry and combustible. A strong southwest wind fanned the flames, pushing them block by block through neighbourhoods already prone to frequent smaller fires. The city’s under-funded firefighting force, with only about 185 firefighters and limited equipment, was quickly overwhelmed. Even stone and brick buildings were consumed as the inferno advanced, fed by wooden interiors and rooftops. ([Library Guides][2])
@@ -347,6 +349,8 @@ In sum, immigrants were central to Chicago’s ascent in the nineteenth century.
 
 ### The Yards
 
+[https://www.wttw.com/chicago-stories/union-stockyards](Union Stockyards), a WTTW history.
+
 Established in 1865 just southwest of the city center, the **Union Stock Yard and Transit Company** consolidated multiple smaller livestock markets into a centralized facility connected to major rail lines. Chicago’s geographic position—linking Midwestern ranching regions to eastern urban consumers—made it an ideal site for large-scale slaughter and distribution. By the late nineteenth century, the Yards covered hundreds of acres and processed millions of cattle and hogs annually. Firms such as Armour and Swift developed vertically integrated systems combining slaughter, refrigeration, packing, and rail transport, transforming meat from a regional commodity into a national and international product. Chicago became known as the “hog butcher for the world,” and the Yards stood as a symbol of American industrial efficiency.
 
 The industrial logic of the Stock Yards reshaped labor, technology, and urban form. Assembly-line methods pioneered in meatpacking prefigured techniques later adopted in automobile manufacturing. At the same time, working conditions were dangerous and unsanitary, as vividly depicted in Upton Sinclair’s *The Jungle* (1906). Sinclair’s exposé catalyzed federal food safety legislation, including the Meat Inspection Act of 1906, demonstrating how local industrial practices could provoke national regulatory reform. Environmental degradation accompanied production; waste flowed into the Chicago River’s South Fork, producing what became known as “Bubbly Creek.”
@@ -365,6 +369,7 @@ Today, little remains of the original complex beyond the limestone gate preserve
 
 3. Chicago History Museum – The Union Stock Yards:
    [https://www.chicagohistory.org/the-union-stock-yards/](https://www.chicagohistory.org/the-union-stock-yards/)
+
 
 
 ---
@@ -818,6 +823,8 @@ The book traces Chicago’s explosive rise from a muddy frontier outpost in the 
 * *[Legendary Blizzars](https://www.wttw.com/chicago-stories/legendary-blizzards)*, a PBS documentary about the city's most consequential storms.
 
 * *[Rise and Fall of Mail Order Giants]](https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants), a PBS documentary about the one of the city's most characteristics industries.
+
+* *[The Race to Reverse the River](https://www.wttw.com/chicago-stories/race-to-reverse-the-river)*, a PBS documentary.
 
 * *The Jungle* (1906) by Upton Sinclair.<br/>
 Set in Chicago’s Union Stock Yards, *The Jungle* follows Lithuanian immigrant Jurgis Rudkus as he and his family confront the brutal realities of industrial labor. Sinclair exposes unsafe working conditions, wage exploitation, and the corruption embedded in the meatpacking industry. While intended as a socialist critique of capitalism, the novel became famous for its graphic depiction of contaminated food production, shocking readers nationwide and prompting federal reforms such as the Meat Inspection Act of 1906.
