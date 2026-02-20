@@ -2,9 +2,7 @@
 
 <center>
 
-![](../images/chi1.JPEG)
-![](../images/chi2.JPEG)
-![](../images/chi3.JPEG)
+![](../images/chi1.JPEG) ![](../images/chi2.JPEG) ![](../images/chi3.JPEG) 
 
 *Chicago's skyline from 1000 ft above the ground (left). The Columbian Basin south of the Museum of Science and Industry in Hyde Park (center). A KLM 747 taxing at O'Hare Airport (right).* [All photos by Leo Irakliotis.]
 
