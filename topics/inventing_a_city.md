@@ -422,7 +422,6 @@ The exposition also solidified Chicago’s image in national and international m
 ### The Great Migration and Chicago: An Urban Transformation
 
 
-
 The **Great Migration** (1916–1970) was one of the most consequential demographic transformations in United States history, during which approximately six million African Americans relocated from the rural South to urban centers in the North and West. While the migration was driven in part by the push factors of Jim Crow oppression, racial violence, and agricultural stagnation, it was equally shaped by the pull of rapidly expanding industrial economies. Few cities embodied that economic magnetism more fully than Chicago.
 
 In the early twentieth century, Chicago stood at the forefront of technological and industrial innovation. The city’s rise as a national transportation hub—anchored by its vast railroad networks and later supported by mechanized freight systems—positioned it as a central node in the American industrial economy. Advances in mass production techniques, refrigeration technology in meatpacking, mechanized steel manufacturing, and industrial-scale logistics fueled unprecedented economic growth. During World War I, when European immigration slowed dramatically, Chicago’s technologically advanced factories and stockyards faced acute labor shortages. These conditions created concrete employment opportunities that made the city an appealing destination for Southern Black workers seeking stable wages in modern industrial sectors.
