@@ -187,6 +187,125 @@ By the twentieth century, Chicago’s transportation infrastructure had become g
 ---
 
 
+### Shakers and movers
+*(Alphabetically, by last name)*
+
+
+#### Jane Addams
+
+**Biographical Blurb**
+Jane Addams (1860–1935) was a social reformer, public intellectual, and co-founder of Hull House on Chicago’s Near West Side in 1889. Educated at Rockford Seminary and influenced by European settlement movements, Addams envisioned Hull House as a center for immigrant support, civic engagement, and social research. She became one of the most prominent Progressive Era reformers in the United States and, in 1931, the first American woman to receive the Nobel Peace Prize. Addams wrote extensively on democracy, ethics, labor, and urban poverty, grounding theory in direct engagement with Chicago’s immigrant neighborhoods.
+
+**Contribution and Impact**
+Hull House became a laboratory for urban reform—providing education, childcare, labor advocacy, public health initiatives, and cultural programming. Addams and her colleagues helped professionalize social work and influenced municipal reforms in sanitation, juvenile courts, and labor regulation. Chicago became a testing ground for Progressive governance precisely because Hull House gathered data, built coalitions, and translated lived urban experience into policy proposals. Addams reshaped the relationship between civil society and municipal authority, embedding Chicago at the forefront of national reform movements and redefining the city as a site of democratic experimentation.
+
+
+#### Philip Danforth Armour
+
+**Biographical Blurb**
+Philip D. Armour (1832–1901) was a meatpacking magnate who capitalized on Chicago’s strategic rail and livestock position. After success during the California Gold Rush, Armour settled in Chicago and co-founded Armour & Company. By the late nineteenth century, he was one of the leading figures in the Union Stock Yards, an industrial complex that became emblematic of Chicago’s rise as the nation’s meatpacking capital. Armour combined technological innovation—especially refrigerated railcars—with aggressive business organization.
+
+**Contribution and Impact**
+Armour’s operations industrialized food processing at unprecedented scale, integrating livestock procurement, slaughter, packing, and distribution. Refrigerated rail transport enabled Chicago meat to reach national and international markets, strengthening the city’s position in global trade. However, the system also concentrated labor in harsh, dangerous conditions, fueling unionization efforts and public outcry—famously captured in Upton Sinclair’s *The Jungle*. Armour’s enterprise symbolized both efficiency and exploitation, embedding Chicago within global commodity chains while intensifying debates over labor rights, food safety regulation, and corporate responsibility.
+
+
+#### Carol Moseley Braun
+
+**Biographical Blurb**
+Carol Moseley Braun (b. 1947) is a Chicago attorney and politician who, in 1992, became the first African American woman elected to the United States Senate. Prior to her Senate career, she served as Cook County Recorder of Deeds and as an Illinois state legislator. Educated at the University of Illinois and the University of Chicago Law School, Moseley Braun emerged from Chicago’s reform-oriented Democratic political networks during the late twentieth century.
+
+**Contribution and Impact**
+Moseley Braun’s election marked a watershed in representation, signaling Chicago’s role as a crucible of Black and female political leadership. Her career reflected demographic and political transformations set in motion during the Great Migration and civil rights eras. By breaking racial and gender barriers at the national level, she amplified Chicago’s political influence and symbolized the city’s evolving electorate. Her rise demonstrated how urban political coalitions—especially those forged in Chicago’s neighborhoods—could propel leaders onto the global stage, reinforcing Chicago’s reputation as a generator of national change.
+
+
+#### Gwendolyn Brooks
+
+**Biographical Blurb**
+Gwendolyn Brooks (1917–2000), born in Topeka but raised in Chicago, became one of the most important literary voices of the twentieth century. Her early poetry captured the rhythms and realities of Chicago’s South Side, particularly Bronzeville. In 1950 she became the first African American to win the Pulitzer Prize for Poetry. Brooks served as Illinois Poet Laureate and mentored generations of young writers. Her work was grounded in the lived urban experience of Black Chicagoans during and after the Great Migration.
+
+**Contribution and Impact**
+Brooks translated Chicago’s demographic transformation into cultural capital. Through her poetry, the South Side became both subject and symbol of modern Black urban life. She documented everyday dignity, struggle, and aspiration, challenging dominant narratives about poverty and marginalization. In doing so, she helped solidify Chicago as a center of Black artistic production and intellectual life. Her influence extended beyond literature; she fostered community-based arts networks, amplifying youth voices and embedding artistic production within neighborhood institutions. Brooks helped define Chicago as a cultural, not merely industrial, global city.
+
+
+#### Daniel Burnham
+
+**Biographical Blurb**
+Daniel Burnham (1846–1912) was an architect and urban planner whose vision helped define Chicago’s physical form. After contributing to early skyscraper development, Burnham served as Director of Works for the 1893 World’s Columbian Exposition, a showcase that projected Chicago’s cultural ambitions onto the world stage. In 1909, he co-authored the *Plan of Chicago*, one of the first comprehensive city plans in the United States.
+
+**Contribution and Impact**
+Burnham’s work elevated Chicago’s architectural and civic aspirations. The Columbian Exposition announced Chicago as a global city, capable of staging an event rivaling European capitals. The 1909 Plan institutionalized large-scale urban planning—advocating lakefront preservation, boulevard systems, and rationalized transportation corridors. These ideas shaped twentieth-century infrastructure and reinforced Chicago’s identity as both industrial powerhouse and cultural metropolis. Burnham’s influence extended beyond aesthetics; he linked urban design with economic development, embedding civic planning into the machinery of modern city governance.
+
+
+#### Marshall Field
+
+**Biographical Blurb**
+Marshall Field (1834–1906) was a merchant prince whose name became synonymous with Chicago retail. Arriving from Massachusetts, Field built what became Marshall Field & Company, a department store that redefined urban consumer culture. His flagship State Street store was not merely a commercial space but a civic institution. Field was also a major philanthropist, contributing to institutions such as the Field Museum. He operated during the post-Fire rebuilding era, when Chicago sought to redefine itself as a modern metropolis.
+
+**Contribution and Impact**
+Field’s department store helped pioneer fixed pricing, customer service standards, and large-scale retail display, transforming Chicago into a center of consumer capitalism. By drawing shoppers from across the Midwest, his enterprise reinforced Chicago’s centrality in regional trade networks. The department store also reshaped gendered labor and consumption patterns: it provided employment for women while cultivating them as primary consumers. In urban terms, State Street became a commercial corridor that embodied Chicago’s aspiration toward cosmopolitanism. Field’s retail empire thus contributed to the city’s transformation from rail junction to modern consumer metropolis.
+
+
+#### Katharine McCormick
+
+**Biographical Blurb**
+Katharine McCormick (1875–1967), though nationally known for funding the development of the birth control pill, had important Chicago ties through her education at the Massachusetts Institute of Technology and her leadership in the women’s suffrage movement, including organizing efforts in Illinois. She was one of the first women to graduate from MIT in biology and later used her fortune to support scientific research and women’s rights initiatives. McCormick’s activism intersected with Chicago’s reform networks during the Progressive Era.
+
+**Contribution and Impact**
+McCormick’s suffrage work in Illinois helped secure early voting rights for women in the state before the ratification of the Nineteenth Amendment. Chicago, as Illinois’s largest political arena, was central to that mobilization. By advancing women’s political participation, she reshaped municipal and state political structures. Her later funding of reproductive health research contributed to broader shifts in women’s autonomy, with social and economic ramifications that resonated in urban centers like Chicago—where workforce participation, education, and family planning became intertwined with women’s civic agency.
+
+
+#### George Pullman
+
+**Biographical Blurb**
+George Pullman (1831–1897) was a New York–born entrepreneur who made his fortune in Chicago during the explosive expansion of the railroad industry. After early work raising buildings in Chicago’s swampy terrain, he turned to railroad sleeping cars, founding the Pullman Palace Car Company in the 1860s. His elegant sleeping cars became synonymous with comfort in long-distance rail travel. Pullman was not only an industrialist but also a social experimenter: he constructed the model industrial town of Pullman on Chicago’s South Side, intending to harmonize labor and capital through paternalistic corporate oversight.
+
+**Contribution and Impact**
+Pullman’s innovations professionalized and standardized luxury rail travel, reinforcing Chicago’s role as the nation’s rail hub. His vertically integrated manufacturing complex anchored the city’s industrial South Side and symbolized late-nineteenth-century corporate capitalism. Yet the 1894 Pullman Strike exposed deep tensions in industrial labor relations, catalyzing national debates over unions, federal intervention, and corporate power. The episode positioned Chicago as a focal point of labor politics and industrial conflict. Pullman’s legacy thus cuts both ways: he advanced technological infrastructure and corporate organization, but also intensified class stratification, helping to shape the city’s enduring labor activism and working-class identity.
+
+
+#### Julius Rosenwald
+
+**Biographical Blurb**
+Julius Rosenwald (1862–1932), president of Sears, Roebuck and Company, was a transformative business leader and philanthropist. Under his leadership, Sears expanded mail-order retail into a national enterprise headquartered in Chicago. Rosenwald modernized operations and championed progressive management practices. Beyond commerce, he collaborated with Booker T. Washington to fund thousands of schools for African American children in the rural South.
+
+**Contribution and Impact**
+Rosenwald’s Sears empire leveraged Chicago’s rail infrastructure to distribute goods nationwide, reinforcing the city’s logistical dominance. Mail-order retail democratized consumer access, linking rural households to industrial production. His philanthropy extended Chicago’s influence beyond municipal boundaries, shaping educational opportunity across the South. Domestically, Sears’ headquarters anchored Chicago as a corporate command center of modern capitalism. Rosenwald’s career illustrates how transportation networks, industrial organization, and social reform intersected in Chicago’s evolution into a global commercial and moral actor.
+
+
+#### Harold Washington
+
+**Biographical Blurb**
+Harold Washington (1922–1987), born on Chicago’s South Side, became the city’s first Black mayor in 1983. A veteran, lawyer, state legislator, and U.S. congressman, Washington emerged from the political mobilization that followed the Great Migration and civil rights movement. His election represented a coalition of Black voters, reform-minded whites, and progressive activists. Washington governed during a period of fiscal constraint and racial polarization.
+
+**Contribution and Impact**
+Washington’s administration marked a structural shift in Chicago’s political order. He expanded minority participation in city governance, reformed contracting practices, and sought greater transparency in municipal administration. His election signaled to national and international observers that Chicago was undergoing demographic and political transformation. Washington repositioned the city as a site of pluralistic urban democracy rather than machine dominance. His tenure demonstrated how minority political leadership could recalibrate the distribution of power in a major American metropolis.
+
+
+#### Ida B. Wells
+
+**Biographical Blurb**
+Ida B. Wells (1862–1931), investigative journalist and anti-lynching activist, moved to Chicago in the 1890s after facing violent reprisals for her reporting in Memphis. In Chicago she co-founded organizations including the National Association of Colored Women and played a critical role in early civil rights activism. Wells was a skilled writer, strategist, and organizer who insisted that racial terror in the South be documented with empirical rigor and public accountability. She also worked to secure greater political voice for Black Chicagoans, especially women.
+
+**Contribution and Impact**
+In Chicago, Wells helped institutionalize Black political activism and investigative journalism. She founded the Negro Fellowship League and was active in suffrage organizing, linking race, gender, and civic power. Her advocacy shaped Chicago’s Black civic infrastructure during the Great Migration, when the city became a major destination for southern migrants. Wells insisted that Chicago not reproduce southern racial hierarchies in northern form. Her work strengthened Black institutions and contributed to a culture of political mobilization that would later support mid-century civil rights struggles in the city.
+
+
+### Villains
+
+#### Al Capone
+
+Al Capone, born in Brooklyn to Italian immigrants, became the most infamous face of Chicago’s Prohibition-era underworld. Arriving in the 1920s, he rose to control bootlegging, gambling, and prostitution operations across the city. Capone’s empire thrived on the illegal alcohol trade, facilitated by Chicago’s rail and lake transportation networks. His notoriety peaked with the 1929 St. Valentine’s Day Massacre, which cemented his public image as ruthless and untouchable. Ironically, he was ultimately convicted not for murder but for tax evasion in 1931. Capone’s reign etched Chicago into global consciousness as the archetypal gangster city.
+
+#### John Wayne Gacy
+
+John Wayne Gacy, active in the 1970s, committed the murder of at least 33 young men and boys in the Chicago area. A contractor and community figure who performed as “Pogo the Clown” at events, Gacy maintained a disturbingly normal public persona. His crimes, uncovered in 1978, shocked the nation and intensified fears surrounding suburban vulnerability and hidden violence. Gacy’s case unfolded during a period when Chicago was redefining itself beyond its gangland past, yet his brutality reinserted the city into national headlines. His legacy remains a grim reminder of how notoriety can shadow urban modernity.
+
+#### H. H. Holmes
+
+H. H. Holmes (born Herman Webster Mudgett) operated in Chicago during the 1893 World’s Columbian Exposition. A con artist and serial killer, Holmes constructed a building—later sensationalized as a “Murder Castle”—designed with hidden rooms and passages. While the exact number of victims remains debated, his crimes captured national attention. Exploiting the anonymity and opportunity presented by the fair’s influx of visitors, Holmes became one of America’s first widely publicized serial killers. His case fed the emerging mass media culture of crime reporting and permanently tied Chicago’s Gilded Age ambition to macabre infamy.
+
+
+
 ## Reading and media
 
 * *City of the Century: The Epic of Chicago and the Making of America,* by Donald L Miller
