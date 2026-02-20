@@ -168,6 +168,8 @@ The “invention of Chicago” was not just about rebuilding—it was about reim
 
 ---
 
+## Reading topics
+
 ### A Bubbly Creek
 
 Where else can you find something like this but Chicago? A river that *bubbles* — not from geothermal springs or volcanic vents — but from decomposing animal waste. Only in the city that industrialized everything, including gravity and water flow, could you produce a creek so saturated with the byproducts of capitalism that it literally effervesced.
