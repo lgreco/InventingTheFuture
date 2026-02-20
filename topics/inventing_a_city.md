@@ -221,7 +221,7 @@ To describe Chicago as a dominant component of the Great Lakes megalopolis is th
 
 ### The Great Chicago Fire of 1871: Disaster and Urban Reinvention
 
-[https://www.wttw.com/chicago-stories/chicago-fire](The Great Chicago Fire), a WTTW story.
+[The Great Chicago Fire](https://www.wttw.com/chicago-stories/chicago-fire), a WTTW story.
 
 On the evening of **October 8, 1871**, a fire broke out on the southwest side of **Chicago, Illinois**, beginning what would become one of the most consequential urban conflagrations in American history. Over the next **36 hours**, the blaze consumed large swaths of the city, killing an estimated **300 people**, destroying roughly **17,000–18,000 buildings**, and leaving **nearly 100,000 residents homeless** out of a population of approximately 330,000. The disaster erased more than **3.3 square miles** of urban fabric, including the central business district, residential areas, and city infrastructure. Although the iconic legend of **Mrs. O’Leary’s cow knocking over a lantern** has endured, the true cause of the fire has never been definitively established. ([Wikipedia][1])
 
@@ -349,7 +349,7 @@ In sum, immigrants were central to Chicago’s ascent in the nineteenth century.
 
 ### The Yards
 
-[https://www.wttw.com/chicago-stories/union-stockyards](Union Stockyards), a WTTW history.
+[Union Stockyards](https://www.wttw.com/chicago-stories/union-stockyards), a WTTW history.
 
 Established in 1865 just southwest of the city center, the **Union Stock Yard and Transit Company** consolidated multiple smaller livestock markets into a centralized facility connected to major rail lines. Chicago’s geographic position—linking Midwestern ranching regions to eastern urban consumers—made it an ideal site for large-scale slaughter and distribution. By the late nineteenth century, the Yards covered hundreds of acres and processed millions of cattle and hogs annually. Firms such as Armour and Swift developed vertically integrated systems combining slaughter, refrigeration, packing, and rail transport, transforming meat from a regional commodity into a national and international product. Chicago became known as the “hog butcher for the world,” and the Yards stood as a symbol of American industrial efficiency.
 
