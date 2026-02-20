@@ -556,6 +556,68 @@ In the days and weeks that followed, the city grappled with the scale of loss. R
 
 ---
 
+### The Skyline
+
+Chicago’s identity as a vertical city rests on a sequence of engineering and architectural breakthroughs that transformed both its skyline and the global practice of tall-building design. From the late nineteenth century onward, the city functioned as a laboratory for structural experimentation, driven by post-Fire rebuilding, dense commercial demand, and a culture of technical innovation.
+
+The late nineteenth century marked a decisive transition from masonry to skeletal construction. The Monadnock Building (1891–93) stands at this threshold. Its north half represents the last generation of massive load-bearing masonry walls—six feet thick at the base—while its south half incorporates steel-frame construction. This hybrid condition captures Chicago at a structural turning point: moving from compressive brick mass toward tensile steel skeletons capable of unprecedented height and window area. The so-called “Chicago School” of architecture embraced this skeletal logic, enabling taller, lighter, and more commercially viable office buildings.
+
+By the mid-twentieth century, advances in structural engineering allowed Chicago to move beyond incremental height increases toward systemic innovation. The career of Fazlur Rahman Khan at Skidmore, Owings & Merrill (SOM) was pivotal. Khan reconceptualized tall buildings not as vertical stacks of beams and columns but as integrated structural systems. His “tube” designs—where closely spaced perimeter columns act together as a rigid hollow tube—dramatically improved resistance to lateral wind forces while reducing material usage. The bundled tube system reached its most famous expression in the Willis Tower (completed 1973 as Sears Tower). Composed of nine interconnected tubes of varying heights, the building achieved 110 stories while maintaining structural efficiency. Khan’s innovations reshaped global skyscraper design, influencing towers across Asia and the Middle East.
+
+Chicago’s skyline also reflects the interplay between engineering pragmatism and architectural symbolism. The 875 North Michigan Avenue (formerly John Hancock Center, 1969) employs an X-braced exterior truss system that expresses structural forces visibly on the façade. The diagonal bracing reduces interior columns and stiffens the tower against wind loads, while simultaneously creating a distinctive visual identity. Here, structure becomes architecture: the engineering solution defines aesthetic character.
+
+More recent developments continue this tradition of structural and environmental experimentation. Aqua (2009), designed by Jeanne Gang, integrates undulating balconies that modulate wind loads, reduce solar gain, and create outdoor space at height. The tower demonstrates how contemporary Chicago architecture extends beyond structural height toward environmental performance and mixed-use density.
+
+Underlying these achievements are broader construction innovations. The post-1871 adoption of fireproof materials, the refinement of elevator technology, caisson foundations capable of anchoring towers in Chicago’s soft soil, and wind-tunnel testing all contributed to making extreme verticality feasible. Chicago’s engineers also pioneered computational modeling in structural analysis during the twentieth century, reinforcing the city’s position as a technical epicenter.
+
+In sum, Chicago’s skyscrapers are not merely tall buildings; they represent iterative advances in structural systems, materials science, and architectural expression. From masonry mass to bundled tubes and environmentally responsive façades, the city’s skyline narrates a sustained dialogue between engineering logic and civic ambition.
+
+
+1. Council on Tall Buildings and Urban Habitat (CTBUH) – Structural Innovations by Fazlur Khan
+   [https://www.ctbuh.org/papers](https://www.ctbuh.org/papers)
+
+2. Chicago Architecture Center – Chicago School and Skyscraper History
+   [https://www.architecture.org/learn/resources/architecture-dictionary/entry/chicago-school/](https://www.architecture.org/learn/resources/architecture-dictionary/entry/chicago-school/)
+
+3. Encyclopaedia Britannica – Skyscraper Development
+   [https://www.britannica.com/technology/skyscraper](https://www.britannica.com/technology/skyscraper)
+
+4. SOM (Skidmore, Owings & Merrill) – Engineering the Willis Tower
+   [https://www.som.com/projects/willis-tower/](https://www.som.com/projects/willis-tower/)
+
+---
+
+### The Trib
+
+
+The history of the Chicago Tribune offers a window into the broader trajectory of the press in Chicago: from partisan nineteenth-century boosterism, to the architectural self-confidence of the early twentieth century, to the national political influence of metropolitan newspapers during their “golden age,” and finally to the structural challenges confronting print journalism today.
+
+Founded in 1847, the *Tribune* quickly became aligned with Republican politics and Midwestern commercial interests. Under publisher Joseph Medill, the paper advocated vigorously for Abraham Lincoln and helped consolidate Chicago’s identity as a rising industrial and political center. By the late nineteenth century, Chicago supported multiple major dailies—the *Tribune*, the *Daily News*, the *Times-Herald*, and later the *Sun-Times*—reflecting both the city’s population growth and its appetite for political and investigative reporting. Newspapers were not simply observers of urban life; they were civic actors shaping reform campaigns, labor debates, and municipal governance.
+
+The most visible architectural expression of this institutional confidence is the Tribune Tower, completed in 1925 after an international design competition. The resulting neo-Gothic structure by Raymond Hood and John Mead Howells was deliberately monumental. Flying buttresses, pointed arches, and a crown inspired by European cathedrals signaled cultural authority and historical continuity. Embedded in its façade are stones gathered from global landmarks—Westminster Abbey, the Great Wall of China, the Parthenon—transforming the building into a literal archive of Western civilization. In architectural terms, the tower asserted that journalism was not merely commercial enterprise but civic institution.
+
+The interwar and postwar decades marked the high point of newspaper power. The *Tribune* became nationally influential under Colonel Robert R. McCormick, whose conservative editorial stance shaped debates over isolationism, federal policy, and anti-communism. The paper’s reach extended beyond Illinois through syndication and wire services. During this period, metropolitan newspapers functioned as agenda-setters in American politics. They mediated public discourse, endorsed candidates, and framed national narratives. In Chicago specifically, the press also engaged directly with municipal politics, exposing corruption while participating in partisan battles. The relationship between press and power was reciprocal and often contentious.
+
+Yet the authority symbolized by Tribune Tower proved difficult to sustain into the late twentieth and early twenty-first centuries. Like many American newspapers, the *Tribune* faced declining print circulation, advertising revenue loss, and corporate consolidation. The Tribune Company underwent bankruptcy restructuring in 2008 and later became part of larger media conglomerates. Newsroom downsizing and the shift to digital platforms altered both scale and tone of coverage. While investigative reporting persists, the economic model that once supported large metropolitan bureaus has eroded. In 2018, the *Tribune* sold Tribune Tower, a symbolic moment underscoring the transformation of journalism from print-centered civic monument to digitally distributed enterprise.
+
+Chicago’s press history thus mirrors broader structural shifts. In its ascent, the *Tribune* embodied the confidence of industrial modernity—politically assertive, architecturally grand, institutionally dominant. In its present form, it reflects the decentralization and fragmentation of contemporary media. The Gothic tower remains, but the economic and cultural foundations that produced it have been reconfigured. The story of the *Tribune* is therefore not only about a newspaper; it is about the changing infrastructure of democratic communication.
+
+
+1. Chicago Tribune – About the Tribune
+   [https://www.chicagotribune.com/about/](https://www.chicagotribune.com/about/)
+
+2. Chicago Architecture Center – Tribune Tower
+   [https://www.architecture.org/learn/resources/buildings-of-chicago/building/tribune-tower/](https://www.architecture.org/learn/resources/buildings-of-chicago/building/tribune-tower/)
+
+3. Columbia Journalism Review – Coverage of Tribune Company restructuring
+   [https://www.cjr.org/](https://www.cjr.org/)
+
+4. Encyclopaedia Britannica – Chicago Tribune
+   [https://www.britannica.com/topic/Chicago-Tribune](https://www.britannica.com/topic/Chicago-Tribune)
+
+
+---
+
 
 
 ### Shakers and movers
