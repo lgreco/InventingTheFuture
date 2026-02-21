@@ -4,15 +4,15 @@
 
 This course is a journey across the last 250 years of human ingenuity, told through the lens of 10–15 scientific and technological breakthroughs that reshaped the world. From the invention of chronometers to the sequencing of the human genome, we'll explore not just how things work—but why they were invented, who made them, and what kind of world they left behind.
 
-No STEM background is required—just curiosity. We'll break down the core science behind each breakthrough in plain language, and then zoom out to examine the social, economic, and cultural forces at play. Who was asking the big questions? Who was solving them? And what happened next?
+No STEM background is required -- just curiosity. We'll break down the core science behind each breakthrough in plain language, and then zoom out to examine the social, economic, and cultural forces at play. Who was asking the big questions? Who was solving them? And what happened next?
 
-Topics include neural networks (inspired by a bourbon-fueled janitor at UChicago), the engineering of the Hoover Dam, the overlooked inventor of the Pap smear, the bicycle mechanics who cracked flight, and the birth of cities, computing, nuclear power, and more. Expect hands-on experiences too—we’ll listen to ham radio signals, trace the path of the Great Chicago Fire, and possibly visit The Henry Ford Museum to see invention in motion.
+Topics include neural networks (inspired by a bourbon-fueled janitor at UChicago), the engineering of the Hoover Dam, the overlooked inventor of the Pap smear, the bicycle mechanics who cracked flight, and  the birth of cities, computing, nuclear power, and more.  
 
 This is history told through invention. And invention told through people.
 
 ## Spring 2026 topics in order of study
 
-Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) | [The Other German Printer](https://github.com/lgreco/InventingTheFuture/blob/main/topics/the_other_german_printer.md) | [Operation Paperclip](./topics/operation_paperclip_pays_off.md) | [Farmer's Table](./topics/farmers_table.md)
+Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Carpenter Timekeeper](./topics/carpenter_timekeeper.md) | [The Other German Printer](https://github.com/lgreco/InventingTheFuture/blob/main/topics/the_other_german_printer.md) | [Operation Paperclip](./topics/operation_paperclip_pays_off.md) | [Farmer's Table](./topics/farmers_table.md) | [Inventing a City](./topics/inventing_a_city.md)
 
 ## Contents (alphabetically)
 
@@ -21,7 +21,6 @@ Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Ca
 
 * [**Flying Bicycles**](./topics/flying_bicycles.md) 
 (Why it took two bicycle makers to invent flight)
-
 
 * [**Caboom**](./topics/chinatown.md)
 (Dawn of Nuclear Age: from Marie Curie to Enrico Fermi)
@@ -39,7 +38,7 @@ Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Ca
 (Ford's work on internal combustion)
 
 * [**Inventing a City**](./topics/inventing_a_city.md) 
-(reconstruction of Chicago; Pullman; Burnham etc; Doxiadis' Megapolis. This can be enhanced by a tour exploring the Chicago Fire path etc)
+(reconstruction of Chicago; Pullman; Burnham; Doxiadis' Megapolis; Great Migration; Railways; Yards; De-industrialization)
 
 * [**Migrant's Wife**](./topics/migrants_wife.md) 
 (Mache Papanicolaou's role in the development of life saving cancer screening - the Pap smear)
@@ -51,7 +50,7 @@ Repair shops ethnography | [Mache Papanicolaou](./topics/migrants_wife.md) | [Ca
 (The dawn of micro and personal computers in Cambridge UK and Menlo Park, CA)
 
 * [**Superhet**](./topics/superhet.md) 
-(the invention of an affordable radio receiver and the democratization of telecommunications -- will include ham radio demo)
+(The invention of an affordable radio receiver and the democratization of telecommunications -- will include ham radio demo)
 
 * [**Technopolis on Murray Hill**](./topics/technopolis_on_murray_hill.md)
 (The invention of the transistor and the role of AT&T Labs in shaping second half of 20th century technology)
