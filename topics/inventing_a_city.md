@@ -8,7 +8,7 @@
 
 </center>
 
-**Preamble.** There is no such thing as a perfect city (or state). They are what we make of them: with our work, with our friendships, and with our imagination. As a living experiment Chicago is imperfect, resilient, and unfinished. What endures is not the skyline or the slogan, but the habits of care we practice daily: how we welcome strangers, educate children, build institutions, and choose, again and again, to invest in a shared future. In the end, a city’s greatness is measured less by its monuments than by its commitments to opportunity, to dignity, and to the quiet, stubborn work of making common life better for the next generation. LI.
+**Preamble.** There is no such thing as a perfect city (or state). They are what we make of them: with our work, with our friendships, and with our imagination. As a living experiment, Chicago is imperfect, resilient, and unfinished. What endures is not the skyline or the slogan, but the habits of care we practice daily: how we welcome strangers, educate children, build institutions, and choose, again and again, to invest in a shared future. In the end, a city’s greatness is measured less by its monuments than by its commitments to opportunity, to dignity, and to the quiet, stubborn work of making common life better for the next generation. LI.
 
 ## Abstract
 
