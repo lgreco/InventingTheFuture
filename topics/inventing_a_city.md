@@ -657,6 +657,7 @@ In the days and weeks that followed, the city grappled with the scale of loss. R
 ### The Skyline
 
 ![](../images/skyline.jpg)
+
 *Chicago's skyline at night, from the air.* [Photo by Leo Irakliotis].
 
 Chicago’s identity as a vertical city rests on a sequence of engineering and architectural breakthroughs that transformed both its skyline and the global practice of tall-building design. From the late nineteenth century onward, the city functioned as a laboratory for structural experimentation, driven by post-Fire rebuilding, dense commercial demand, and a culture of technical innovation.
