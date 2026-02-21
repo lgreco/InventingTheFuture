@@ -173,6 +173,11 @@ The “invention of Chicago” was not just about rebuilding. It was about reima
 
 ### A Bubbly Creek
 
+![](../images/bubbly.jpg)
+
+*Man standing on Bubbly Creek at Morgan Street in 1902. Meatpackers discharged so much offal into that channel that the water began release methane and hydrogen sulfide as the waste decomposed below the surface. The stockyards closed in 1968. The creek still bubbles.* [Photo sourced from [Chicagology](https://chicagology.com/harbor/bubblycreek/)].
+
+
 Where else can you find something like this but Chicago? A smelly river that *bubbles* — not from geothermal springs or volcanic vents — but from decomposing animal waste. Only in the city that industrialized everything, including gravity and water flow, could you produce a creek so saturated with the byproducts of capitalism that it literally effervesced.
 
 Welcome to **Bubbly Creek**, a branch of the South Fork of the Chicago River that runs along what was once the Union Stock Yards. In the late nineteenth and early twentieth centuries, this stretch of water became the unofficial holding tank for America’s appetite. Slaughterhouses lining the banks of the yards processed millions of cattle and hogs annually. The blood, fat, entrails, and chemical waste that could not be rendered or sold were simply discharged into the river. The result: a thick stew of organic refuse that, as it decomposed anaerobically, released methane and other gases. The surface churned. The water burped. Hence the name.
@@ -192,6 +197,12 @@ Bubbly Creek may provoke laughter at first — a river that bubbles! — but its
 ---
 
 ### Chicago and the Great Lakes Megalopolis
+
+![](../images/body_of_lake_michigan.jpg)
+
+The Body of Lake Michigan, Todd Slaughter, 2001 Fiberglass and steel, 4x14x28 ft., 
+*is a sculpture installed at Midway Airport in Chicago. It depicts the depth profile of the lake based on data from the the National Oceanic and Atmospheric Administration and the National Environmental Satellite, Data, and Information Service.*  
+
 
 The modern city of Chicago is best understood not merely as a large metropolitan center, but as a dominant node within a broader continental urban system: the Great Lakes megalopolis. This region—stretching from Milwaukee and Chicago through Detroit, Cleveland, Toronto, and into the industrial corridor of the lower Great Lakes—constitutes one of the largest concentrations of population, economic output, and infrastructure in North America. To describe Chicago’s role within this formation is to shift analytical scale: from city to region, from municipality to network.
 
@@ -222,7 +233,13 @@ To describe Chicago as a dominant component of the Great Lakes megalopolis is th
 
 ### The Great Chicago Fire of 1871: Disaster and Urban Reinvention
 
+
+![](../images/cfa.jpg)
+
+
 [The Great Chicago Fire](https://www.wttw.com/chicago-stories/chicago-fire), a WTTW story.
+
+*From the 1960s until recently, the Chicago Fire Department's training facility was at the site of the Mrs. O'Leary's farm, where the 1871 fire started. The building was designed by Loebl, Schlossman, & Bennett. The bronze flame statue is by Egon Weiner.* [Photo courtesy of [u/ThanHowWhy](https://www.reddit.com/user/ThanHowWhy/).]
 
 On the evening of **October 8, 1871**, a fire broke out on the southwest side of **Chicago, Illinois**, beginning what would become one of the most consequential urban conflagrations in American history. Over the next **36 hours**, the blaze consumed large swaths of the city, killing an estimated **300 people**, destroying roughly **17,000–18,000 buildings**, and leaving **nearly 100,000 residents homeless** out of a population of approximately 330,000. The disaster erased more than **3.3 square miles** of urban fabric, including the central business district, residential areas, and city infrastructure. Although the iconic legend of **Mrs. O’Leary’s cow knocking over a lantern** has endured, the true cause of the fire has never been definitively established. ([Wikipedia][1])
 
@@ -268,6 +285,9 @@ In reflecting on the Great Chicago Fire, then, one sees a story not only of dest
 ---
 
 ### The Plan of Chicago
+
+![](../images/burnham.jpg)
+*The proposed Civic Center Plaza on West Congress (now, Ida B. Wells Drive) and Halsted streets was seen as the "center of gravity, so to speak, of all the radial arteries entering Chicago, and while its location is therefore favorable, land values in the area selected are not excessive."* [Daniel Burnham, [Plan of Chicago](https://chicagology.com/skyscrapers/skyscrapers192/), 1909]
 
 Daniel H. Burnham’s *Plan of Chicago* (1909), prepared with Edward H. Bennett under the auspices of the Commercial Club, represents one of the most ambitious early twentieth-century efforts to impose systematic order upon a rapidly expanding American metropolis . Conceived in the wake of the 1893 World’s Columbian Exposition, the Plan reflects a conviction that urban growth must be guided by deliberate design rather than by speculative real-estate development or piecemeal infrastructure. As outlined in the opening chapters, Burnham situates Chicago within a broader historical lineage of city planning, drawing comparisons to Paris, Rome, Vienna, and Washington in order to frame Chicago as the “metropolis of the Middle West” destined for continued expansion .
 
