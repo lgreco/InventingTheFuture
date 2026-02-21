@@ -287,6 +287,7 @@ In reflecting on the Great Chicago Fire, then, one sees a story not only of dest
 ### The Plan of Chicago
 
 ![](../images/burnham.jpg)
+
 *The proposed Civic Center Plaza on West Congress (now, Ida B. Wells Drive) and Halsted streets was seen as the "center of gravity, so to speak, of all the radial arteries entering Chicago, and while its location is therefore favorable, land values in the area selected are not excessive."* [Daniel Burnham, [Plan of Chicago](https://chicagology.com/skyscrapers/skyscrapers192/), 1909]
 
 Daniel H. Burnham’s *Plan of Chicago* (1909), prepared with Edward H. Bennett under the auspices of the Commercial Club, represents one of the most ambitious early twentieth-century efforts to impose systematic order upon a rapidly expanding American metropolis . Conceived in the wake of the 1893 World’s Columbian Exposition, the Plan reflects a conviction that urban growth must be guided by deliberate design rather than by speculative real-estate development or piecemeal infrastructure. As outlined in the opening chapters, Burnham situates Chicago within a broader historical lineage of city planning, drawing comparisons to Paris, Rome, Vienna, and Washington in order to frame Chicago as the “metropolis of the Middle West” destined for continued expansion .
@@ -308,6 +309,7 @@ Throughout, Burnham frames the Plan as both visionary and attainable. He appeals
 ### A Model Community
 
 ![](../images/pullman.jpg)
+
 *Row houses in Pullman.* [Photo by Leo Irakliotis]
 
 [Pullman and the Railroad Rebellion](https://www.wttw.com/chicago-stories/pullman-and-the-railroad-rebellion), a PBS documentary.
@@ -337,6 +339,8 @@ Today, Pullman is a restored historic district and museum landscape. It represen
 ### Immigrants and the Making of 19th-Century Chicago
 
 ![](../images/immigrants.jpg)
+
+
 *Migrants outside Chicago's 17th District police station in Albany Park*. [Photo, courtesy of AP/Charles Rex Arbogast, 2024].
 
 Chicago’s transformation in the nineteenth century was fundamentally an immigrant story. From its incorporation as a town of a few hundred in 1833, the city’s explosive growth was underwritten by waves of newcomers who arrived seeking economic opportunity and forged the social and cultural fabric of what became one of the United States’ largest urban centers. By 1900, Chicago had grown to nearly **1.7 million people**, and a substantial proportion of this population boom was fueled by migration from abroad—particularly from Europe—beginning in the 1840s and intensifying after the Civil War. ([turn0search1](https://en.wikipedia.org/wiki/Chicago); [turn0search3](https://en.wikipedia.org/wiki/History_of_Chicago))
@@ -460,6 +464,7 @@ The exposition also solidified Chicago’s image in national and international m
 ### The Great Migration and Chicago: An Urban Transformation
 
 ![](../images/gm.jpg)
+
 *Apartment building in African-American section of Chicago* [Photo by R. Lee, source  Library of Congress].
 
 
@@ -503,6 +508,7 @@ Chicago’s appeal during the Great Migration cannot be understood solely as an 
 ### CHA
 
 ![](../images/cg.jpg)
+
 *The last phase of Cabrini-Green's demolition in 2011.* [Photo, courtesy of [InTheseTimes](https://inthesetimes.com/article/70-acres-cabrini-green-documentary-chicago-housing-authority).]
 
 The history of the Chicago Housing Authority (CHA) offers a revealing lens through which to examine twentieth-century urban policy, segregation, and concentrated poverty in the United States. Established in 1937 under the federal Housing Act, the CHA was initially conceived as a reformist intervention: to replace substandard tenements with safe, affordable housing for working-class families. Early developments, such as the Jane Addams Homes, reflected Progressive aspirations toward sanitary design and social uplift. Yet over time, the authority’s policies and siting decisions became deeply entangled with racial politics and spatial segregation.
@@ -531,6 +537,7 @@ The trajectory of the Chicago Housing Authority illustrates the limits of techno
 ### Chicago’s Transportation History: From Portage to Global Hub
 
 ![](../images/corwith.jpg)
+
 *Corwith rail yard in Chicago's Brighton Park. At the time of its construction, it was the largest in the world.* [Photo: courtesy of formulanone, [Wikimedia](https://en.wikipedia.org/wiki/Corwith_Yard#/media/File:Corwith_Intermodal_Facility.jpg)]
 
 Chicago’s ascendancy as a **transportation hub** was neither accidental nor incidental; it stemmed from a conjunction of geography, technology, and economic opportunity that positioned the city at the crossroads of North America’s inland trade networks. Long before railroads or skyscrapers, the region’s physical landscape held the seeds of its future centrality. At the junction where the **Great Lakes** and the **Mississippi River** watershed nearly met, the historic **Chicago Portage** provided an easy passage for Native American trade routes and, later, European explorers. This natural link between the Atlantic and the interior facilitated early economic activity and foreshadowed Chicago’s emergence as a nexus of continental commerce.([Wikipedia][1])
@@ -576,6 +583,10 @@ By the twentieth century, Chicago’s transportation infrastructure had become g
 ---
 
 ### Printing in Chicago
+
+![](../images/printers_row.jpg)
+
+*The Franklin Builing on Chicago's Printers Row. On a personal note, this was my first residence in Chicago from 1996 to 1998.* [Photo courtesy of Teemu008 sourced from [Wikimedia](https://en.wikipedia.org/wiki/Printers_Row#/media/File:Franklin_Building_(7187204369).jpg)].
 
 The history of the printing industry in Chicago reflects the city’s broader trajectory as a commercial, logistical, and cultural hub of the American interior. From the mid-nineteenth century onward, Chicago emerged as one of the nation’s leading centers of printing, publishing, and book distribution, supported by rail connectivity, a rapidly growing population, and expanding newspaper circulation.
 
@@ -715,6 +726,7 @@ Upon completion, the Willis/Tower not only set global height records but also in
 ### The Trib
 
 ![](../images/trib.jpg)
+
 *Pressman Ray Cueto checks quality at the Chicago Tribune Freedom Center printing facility in 2007. The Tribune's printing presses were so massive that they had to be mounted, with steel pillings, to the bedrock under the river, to prevent them from rocking and destabilizing the entire printing facility at Goose Island.* [Photo, courtesy of the Chicago Tribune.]
 
 
@@ -749,6 +761,7 @@ Chicago’s press history thus mirrors broader structural shifts. In its ascent,
 ### Before Amazon Prime, there was Chicago
 
 ![](../images/sears_house.jpg)
+
 *A Sears house in Geneva, Ill.*
 
 Chicago’s rise as a national economic hub in the late nineteenth and early twentieth centuries was closely tied to the emergence and expansion of the *mail-order* and *retail catalog* industry. Two Chicago firms — **Montgomery Ward & Co.** and **Sears, Roebuck and Co.** — helped invent a mass-marketing and distribution model that reshaped American consumer culture, extended Chicago’s economic reach, and presaged many features of modern e-commerce. ([Chicago History Encyclopedia][1])
