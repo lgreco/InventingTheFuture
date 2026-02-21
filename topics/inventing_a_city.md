@@ -8,6 +8,7 @@
 
 </center>
 
+**Preamble.** There is no such thing as a perfect city (or state). They are what we make of them: with our work, with our friendships, and with our imagination. As a living experiment Chicago is imperfect, resilient, and unfinished. What endures is not the skyline or the slogan, but the habits of care we practice daily: how we welcome strangers, educate children, build institutions, and choose, again and again, to invest in a shared future. In the end, a city’s greatness is measured less by its monuments than by its commitments to opportunity, to dignity, and to the quiet, stubborn work of making common life better for the next generation. LI.
 
 ## Abstract
 
@@ -17,7 +18,7 @@ Meanwhile, the industrial boom fueled Chicago’s rise. Entrepreneurs and indust
 
 By the early 20th century, Chicago had reinvented itself as a premier American metropolis—defined by its towering architecture, cultural institutions, and economic might. It became a city of firsts: in skyscrapers, in organized labor movements, in jazz and blues, and in political influence.
 
-The “invention of Chicago” was not just about rebuilding—it was about reimagining what a city could be. Guided by bold planning and driven by industrial ambition, Chicago emerged as a symbol of resilience, innovation, and the modern American urban experience.
+The “invention of Chicago” was not just about rebuilding. It was about reimagining what a city could be. Guided by bold planning and driven by industrial ambition, Chicago emerged as a symbol of resilience, innovation, and the modern American urban experience.
 
 
 **<mark>[Reading material is available](https://github.com/lgreco/InventingTheFuture/blob/main/topics/inventing_a_city.md#reading-topics) after the following list of discussion points.</mark>**
