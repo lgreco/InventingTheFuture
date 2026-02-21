@@ -287,6 +287,9 @@ Throughout, Burnham frames the Plan as both visionary and attainable. He appeals
 
 ### A Model Community
 
+![](../images/pullman.jpg)
+*Row houses in Pullman.* [Photo by Leo Irakliotis]
+
 [Pullman and the Railroad Rebellion](https://www.wttw.com/chicago-stories/pullman-and-the-railroad-rebellion), a PBS documentary.
 
 The rise and fall of Pullman, Illinois, offers a compact case study in industrial paternalism, labor conflict, and the limits of corporate social engineering. Founded in the 1880s by industrialist **George Pullman**, the town was built adjacent to his Pullman Palace Car Company on Chicago’s South Side. Conceived after the Great Railroad Strike of 1877, Pullman’s model community was intended to harmonize capital and labor by providing orderly housing, sanitation, green space, and cultural amenities for workers. Architect Solon S. Beman designed brick row houses, a hotel, library, arcade, and church, all arranged within a carefully regulated environment. Pullman prohibited independent newspapers, town meetings, and saloons; rents were deducted directly from wages. The town embodied a Progressive-era belief that environment could shape moral and economic behavior.
@@ -312,6 +315,9 @@ Today, Pullman is a restored historic district and museum landscape. It represen
 ---
 
 ### Immigrants and the Making of 19th-Century Chicago
+
+![](../images/immigrants.jpg)
+*Migrants outside Chicago's 17th District police station in Albany Park*. [Photo, courtesy of AP/Charles Rex Arbogast, 2024].
 
 Chicago’s transformation in the nineteenth century was fundamentally an immigrant story. From its incorporation as a town of a few hundred in 1833, the city’s explosive growth was underwritten by waves of newcomers who arrived seeking economic opportunity and forged the social and cultural fabric of what became one of the United States’ largest urban centers. By 1900, Chicago had grown to nearly **1.7 million people**, and a substantial proportion of this population boom was fueled by migration from abroad—particularly from Europe—beginning in the 1840s and intensifying after the Civil War. ([turn0search1](https://en.wikipedia.org/wiki/Chicago); [turn0search3](https://en.wikipedia.org/wiki/History_of_Chicago))
 
@@ -350,6 +356,12 @@ In sum, immigrants were central to Chicago’s ascent in the nineteenth century.
 
 ### The Yards
 
+![](../images/yards.jpg)
+
+*1947 photo of the Union Stock Yards, from the U.S. National Archives and Records Administration* [Sourced from [Wikimedia](https://en.wikipedia.org/wiki/Union_Stock_Yards#/media/File:The_maze_of_livestock_pens_and_walkways_at_Chicago's_stockyards,_ca._1947_-_NARA_-_541823_(cropped).jpg)]
+
+
+
 [Union Stockyards](https://www.wttw.com/chicago-stories/union-stockyards), a WTTW history.
 
 Established in 1865 just southwest of the city center, the **Union Stock Yard and Transit Company** consolidated multiple smaller livestock markets into a centralized facility connected to major rail lines. Chicago’s geographic position—linking Midwestern ranching regions to eastern urban consumers—made it an ideal site for large-scale slaughter and distribution. By the late nineteenth century, the Yards covered hundreds of acres and processed millions of cattle and hogs annually. Firms such as Armour and Swift developed vertically integrated systems combining slaughter, refrigeration, packing, and rail transport, transforming meat from a regional commodity into a national and international product. Chicago became known as the “hog butcher for the world,” and the Yards stood as a symbol of American industrial efficiency.
@@ -378,6 +390,11 @@ Today, little remains of the original complex beyond the limestone gate preserve
 
 
 ### Chicago and the World’s Columbian Exposition of 1893: A Coming-of-Age on the Global Stage
+
+![](../images/columbian.jpg)
+
+*Visitors tour World’s Columbian Exposition of 1893 in an electric boat, passing the Statue of the Republic. A smaller replica of the statue can be seen today in Jackson Park.* [Photo: Museum of Science and Industry; also part of [The Atlantic's 30 Photos](https://www.theatlantic.com/photo/2024/10/photos-1893-chicago-worlds-fair/680358/) collection from the exposition].
+
 
 In the late nineteenth century, the city of **Chicago** was still quite young and, by some measures, still wrestling with its identity. Less than a quarter-century had elapsed since the **Great Chicago Fire of 1871**, and yet the city had already grown into a major industrial and transportation hub. It was into this context that Chicago won the right to host the **World’s Columbian Exposition** in **1893**, a world’s fair commemorating the quadricentennial of Christopher Columbus’s landfall in the Americas. Scholars and civic leaders alike saw the exposition as an opportunity—but also a test—to situate Chicago not merely as a successful American city but as a place on the world stage of culture, innovation, and urban modernity. ([Wikipedia][1])
 
@@ -422,6 +439,9 @@ The exposition also solidified Chicago’s image in national and international m
 
 ### The Great Migration and Chicago: An Urban Transformation
 
+![](../images/gm.jpg)
+*Apartment building in African-American section of Chicago* [Photo by R. Lee, source  Library of Congress].
+
 
 The **Great Migration** (1916–1970) was one of the most consequential demographic transformations in United States history, during which approximately six million African Americans relocated from the rural South to urban centers in the North and West. While the migration was driven in part by the push factors of Jim Crow oppression, racial violence, and agricultural stagnation, it was equally shaped by the pull of rapidly expanding industrial economies. Few cities embodied that economic magnetism more fully than Chicago.
 
@@ -462,6 +482,9 @@ Chicago’s appeal during the Great Migration cannot be understood solely as an 
 
 ### CHA
 
+![](../images/cg.jpg)
+*The last phase of Cabrini-Green's demolition in 2011.* [Photo, courtesy of [InTheseTimes](https://inthesetimes.com/article/70-acres-cabrini-green-documentary-chicago-housing-authority).]
+
 The history of the Chicago Housing Authority (CHA) offers a revealing lens through which to examine twentieth-century urban policy, segregation, and concentrated poverty in the United States. Established in 1937 under the federal Housing Act, the CHA was initially conceived as a reformist intervention: to replace substandard tenements with safe, affordable housing for working-class families. Early developments, such as the Jane Addams Homes, reflected Progressive aspirations toward sanitary design and social uplift. Yet over time, the authority’s policies and siting decisions became deeply entangled with racial politics and spatial segregation.
 
 Following the Great Migration, Chicago’s Black population expanded rapidly, while restrictive covenants and discriminatory lending practices limited residential mobility. Rather than dispersing public housing throughout the city, CHA developments increasingly concentrated units in predominantly Black neighborhoods on the South and West Sides. By the 1950s and 1960s, large high-rise complexes such as the Robert Taylor Homes and Cabrini-Green embodied a shift toward vertical density and cost efficiency. These projects were justified as rational planning responses to housing shortages, yet their scale and location reinforced racial and economic isolation. As historian Arnold Hirsch has argued, mid-century public housing policy effectively constructed a “second ghetto,” institutionalizing segregation through administrative decision-making rather than explicit statute.
@@ -486,6 +509,9 @@ The trajectory of the Chicago Housing Authority illustrates the limits of techno
 ---
 
 ### Chicago’s Transportation History: From Portage to Global Hub
+
+![](../images/corwith.jpg)
+*Corwith rail yard in Chicago's Brighton Park. At the time of its construction, it was the largest in the world.* [Photo: courtesy of formulanone, [Wikimedia](https://en.wikipedia.org/wiki/Corwith_Yard#/media/File:Corwith_Intermodal_Facility.jpg)]
 
 Chicago’s ascendancy as a **transportation hub** was neither accidental nor incidental; it stemmed from a conjunction of geography, technology, and economic opportunity that positioned the city at the crossroads of North America’s inland trade networks. Long before railroads or skyscrapers, the region’s physical landscape held the seeds of its future centrality. At the junction where the **Great Lakes** and the **Mississippi River** watershed nearly met, the historic **Chicago Portage** provided an easy passage for Native American trade routes and, later, European explorers. This natural link between the Atlantic and the interior facilitated early economic activity and foreshadowed Chicago’s emergence as a nexus of continental commerce.([Wikipedia][1])
 
@@ -529,7 +555,37 @@ By the twentieth century, Chicago’s transportation infrastructure had become g
 
 ---
 
+### Printing in Chicago
+
+The history of the printing industry in Chicago reflects the city’s broader trajectory as a commercial, logistical, and cultural hub of the American interior. From the mid-nineteenth century onward, Chicago emerged as one of the nation’s leading centers of printing, publishing, and book distribution, supported by rail connectivity, a rapidly growing population, and expanding newspaper circulation.
+
+Early printers followed the city’s commercial growth. By the 1850s, Chicago had become a major wholesale market for the Midwest, and printers supplied everything from newspapers and catalogs to legal forms and advertising materials. After the Great Fire of 1871 destroyed many presses, the industry rebuilt quickly, aided by improved fireproof construction and advances in typesetting and mechanical printing. The concentration of publishing houses and printing firms along Dearborn Street south of Congress Parkway led to the area’s later designation as Printer's Row. Multi-story loft buildings, such as the Donohue and Dearborn Station Printing House structures, were designed to accommodate heavy presses and large workforces, often incorporating reinforced floors and freight elevators.
+
+By the late nineteenth and early twentieth centuries, Chicago was second only to New York in printing output. The city became a national center for mail-order catalogs—most famously those of Sears, Roebuck and Montgomery Ward—which relied on large-scale printing and distribution networks. Advances such as the Linotype machine accelerated typesetting, while Chicago’s newspapers, including the Chicago Tribune and Chicago Daily News, fueled demand for high-volume production. Printing was both an industrial and cultural enterprise: it enabled political communication, advertising, literary publication, and civic identity formation.
+
+The mid-twentieth century saw gradual decentralization as printing operations relocated to suburban industrial parks, and digital technologies later reduced demand for large press facilities. Printer’s Row transitioned into a residential and cultural district, yet its architecture preserves the material footprint of Chicago’s publishing era. The industry’s legacy persists not only in buildings but in the city’s enduring identity as a center of communication, reform journalism, and commercial distribution.
+
+
+
+1. Encyclopedia of Chicago – Printing and Publishing
+   [http://www.encyclopedia.chicagohistory.org/pages/2481.html](http://www.encyclopedia.chicagohistory.org/pages/2481.html)
+
+2. Encyclopedia of Chicago – Printer’s Row
+   [http://www.encyclopedia.chicagohistory.org/pages/1010.html](http://www.encyclopedia.chicagohistory.org/pages/1010.html)
+
+3. Chicagology – Chicago’s Golden Age of Printing
+   [https://chicagology.com/goldenage/goldenage216/](https://chicagology.com/goldenage/goldenage216/)
+
+4. Chicago Sun-Times – Printer’s Row Neighborhood Guide
+   [https://chicago.suntimes.com/2018/6/27/18338966/printers-row-neighborhood-guide-chicago-restaurants-bars-shops](https://chicago.suntimes.com/2018/6/27/18338966/printers-row-neighborhood-guide-chicago-restaurants-bars-shops)
+
+---
+
 ### The Eastland Disaster: Chicago’s Forgotten Maritime Catastrophe
+
+![](../images/eastland.jpg)
+
+*Tugboat Kenosha helps evacuate survivors after the S.S. Eastland rolled and partially sunk on July 24, 1915.* [Photo: Chicago Tribune Archives]
 
 On **July 24, 1915**, the passenger steamship **SS *Eastland*** capsized on the **Chicago River** in one of the deadliest maritime disasters in American history. While overshadowed in public memory by the **Titanic** and other global tragedies, the **Eastland disaster** claimed at least **844 lives**, exceeding the fatalities of the Great Chicago Fire or the Iroquois Theatre Fire and and becoming the worst single-ship loss of life on the Great Lakes.([Encyclopedia Britannica][1])
 
@@ -569,6 +625,9 @@ In the days and weeks that followed, the city grappled with the scale of loss. R
 
 ### The Skyline
 
+![](../images/skyline.jpg)
+*Chicago's skyline at night, from the air.* [Photo by Leo Irakliotis].
+
 Chicago’s identity as a vertical city rests on a sequence of engineering and architectural breakthroughs that transformed both its skyline and the global practice of tall-building design. From the late nineteenth century onward, the city functioned as a laboratory for structural experimentation, driven by post-Fire rebuilding, dense commercial demand, and a culture of technical innovation.
 
 The late nineteenth century marked a decisive transition from masonry to skeletal construction. The Monadnock Building (1891–93) stands at this threshold. Its north half represents the last generation of massive load-bearing masonry walls—six feet thick at the base—while its south half incorporates steel-frame construction. This hybrid condition captures Chicago at a structural turning point: moving from compressive brick mass toward tensile steel skeletons capable of unprecedented height and window area. The so-called “Chicago School” of architecture embraced this skeletal logic, enabling taller, lighter, and more commercially viable office buildings.
@@ -598,7 +657,45 @@ In sum, Chicago’s skyscrapers are not merely tall buildings; they represent it
 
 ---
 
+### Sears Tower
+
+![](../images/khan.jpg)
+
+*Friends and creative partners Fazlur Khan (1929–1982) and Bruce Graham (1925–2010) next to each other at the Graceland Cemetery. Together, they designed and built two of Chicago's most iconic towers: Sears and Hancock.*  [Photo by Nick Number, [Wikimedia](https://en.wikipedia.org/wiki/Fazlur_Rahman_Khan#/media/File:Graves_of_Fazlur_Rahman_Khan_(1929%E2%80%931982)_and_Bruce_John_Graham_(1925%E2%80%932010)_at_Graceland_Cemetery,_Chicago.jpg), cropped for sizing]
+
+
+
+The construction of the Willis Tower — originally known as the Sears Tower — stands as one of the defining engineering achievements of twentieth-century skyscraper design. Built between 1970 and 1974 in downtown Chicago, the tower reached an architectural height of approximately **1,451 feet (442 m)** with 108–110 stories, making it the world’s tallest building at the time of its completion and holding that title from 1973 until 1998. ([Wikipedia][1])
+
+The tower was commissioned by Sears, Roebuck & Company as a consolidated corporate headquarters and developed by the Chicago office of **Skidmore, Owings & Merrill (SOM)**, with architect **Bruce Graham** and structural engineer **Fazlur Rahman Khan** leading the design. ([Wikipedia][1]) Khan’s structural innovation was the **“bundled tube” system** — an arrangement of nine square-tube steel frames closely grouped in a 3×3 matrix. Each tube measures roughly 75 feet per side, and together they form a stiff, integrated unit that resists both gravity and lateral wind loads efficiently. ([SOM][2]) Compared with earlier skyscraper techniques, this system offered a dramatic improvement in material economy and structural capacity, allowing the tower to rise with less steel per square foot than previous tall buildings and enabling open interior floor plans. ([AISC][3])
+
+Foundations for the structure were built on **reinforced concrete caissons** extending to bedrock, providing a stable base for the immense vertical loads. ([SOM][2]) The exterior cladding combined black anodized aluminum and tinted glass, characteristic of International Style modernism and reflecting a broad mid-century architectural aesthetic. ([Wikipedia][1]) During construction, innovative logistics were used to maintain efficiency on the fast-paced schedule: crews hoisted material directly to floors via strategically placed cranes, and even moveable lunch carts were operated so workers did not descend from elevated levels for breaks. ([AISC][4])
+
+Upon completion, the Willis/Tower not only set global height records but also influenced skyscraper design worldwide. The bundled-tube concept pioneered here became a foundational strategy for high-rise construction in subsequent decades, underpinning many of the world’s tallest buildings and marking a shift toward structural logic that integrates form, economy, and performance. ([Encyclopedia Britannica][5])
+
+
+
+* Council on Tall Buildings and Urban Habitat – Willis Tower profile
+  [https://www.skyscrapercenter.com/building/willis-tower/169](https://www.skyscrapercenter.com/building/willis-tower/169)
+
+* AISC Modern Steel Construction – “A Pioneer in Bundled-Tube Design”
+  [https://www.aisc.org/modern-steel/news/a-pioneer-in-bundled-tube-design-iconic-willis-tower-turns-50/](https://www.aisc.org/modern-steel/news/a-pioneer-in-bundled-tube-design-iconic-willis-tower-turns-50/)
+
+* PBS *Building Big* – Sears Tower structural overview
+  [https://www.pbs.org/wgbh/buildingbig/wonder/structure/sears_tower.html](https://www.pbs.org/wgbh/buildingbig/wonder/structure/sears_tower.html)
+
+[1]: https://en.wikipedia.org/wiki/Willis_Tower "Willis Tower"
+[2]: https://www.som.com/projects/willis-tower-formerly-sears-tower/ "Willis Tower"
+[3]: https://www.aisc.org/modernsteel/news/2023/may/a-pioneer-in-bundled-tube-design-iconic-willis-tower-turns-50/ "A Pioneer in Bundled-Tube Design, Iconic Willis Tower ..."
+[4]: https://www.aisc.org/modern-steel/news/a-pioneer-in-bundled-tube-design-iconic-willis-tower-turns-50/ "A Pioneer in Bundled-Tube Design, Iconic Willis Tower ..."
+[5]: https://www.britannica.com/technology/bundled-tube-system "Bundled tube system | architecture"
+
+---
+
 ### The Trib
+
+![](../images/trib.jpg)
+*Pressman Ray Cueto checks quality at the Chicago Tribune Freedom Center printing facility in 2007. The Tribune's printing presses were so massive that they had to be mounted, with steel pillings, to the bedrock under the river, to prevent them from rocking and destabilizing the entire printing facility at Goose Island.* [Photo, courtesy of the Chicago Tribune.]
 
 
 The history of the Chicago Tribune offers a window into the broader trajectory of the press in Chicago: from partisan nineteenth-century boosterism, to the architectural self-confidence of the early twentieth century, to the national political influence of metropolitan newspapers during their “golden age,” and finally to the structural challenges confronting print journalism today.
@@ -625,6 +722,38 @@ Chicago’s press history thus mirrors broader structural shifts. In its ascent,
 
 4. Encyclopaedia Britannica – Chicago Tribune
    [https://www.britannica.com/topic/Chicago-Tribune](https://www.britannica.com/topic/Chicago-Tribune)
+
+
+---
+
+### Before Amazon Prime, there was Chicago
+
+![](../images/sears_house.jpg)
+*A Sears house in Geneva, Ill.*
+
+Chicago’s rise as a national economic hub in the late nineteenth and early twentieth centuries was closely tied to the emergence and expansion of the *mail-order* and *retail catalog* industry. Two Chicago firms — **Montgomery Ward & Co.** and **Sears, Roebuck and Co.** — helped invent a mass-marketing and distribution model that reshaped American consumer culture, extended Chicago’s economic reach, and presaged many features of modern e-commerce. ([Chicago History Encyclopedia][1])
+
+Aaron Montgomery Ward, a Chicago salesman, launched what is widely recognized as the first successful general *mail-order* catalog in 1872 to serve rural customers excluded from the diverse inventories of urban stores. His early catalogs began modestly — a single sheet listing 163 items — but rapidly expanded into multi-hundred-page books that offered a vast array of products directly to consumers via the postal service, eliminating middlemen and lowering prices. ([Chicago History Encyclopedia][1])
+
+Sears followed Ward’s example a decade later. Richard Warren Sears, with partner Julius Rosenwald, transformed a specialty mail catalog into a comprehensive retail directory by the 1890s. At its peak, the Sears, Roebuck catalog reached millions of households annually, offering everything from watches and bicycles to sewing machines and, later, kit homes. Improvements in postal delivery — especially **Rural Free Delivery** and then **Parcel Post** — greatly expanded the reach of catalogs, connecting Chicago producers directly to rural and urban consumers alike. ([Walsworth][2])
+
+Economically, mail-order giants anchored Chicago’s commercial infrastructure. Massive warehouse and printing complexes, notably Montgomery Ward’s **Catalog House** along the Chicago River, became local landmarks and large employers. Distribution networks tied into the city’s freight rail and postal systems, further reinforcing Chicago’s role as a national logistics hub. ([Wikipedia][3])
+
+Socially, catalog culture democratized access to goods and shaped consumer expectations around choice, price, and convenience. Families in remote farming communities could browse thousands of items previously unavailable locally, effectively diminishing geographic barriers to consumption. Some scholars note that the Sears catalog became a cultural artifact — a source of entertainment and aspiration as well as commerce. ([Cambridge University Press & Assessment][4])
+
+By the mid-twentieth century, both firms expanded into physical retail stores, reflecting shifts in consumer behavior. Yet by the late twentieth century, changing technology and competition eroded the dominance of traditional mail catalogs, leading to declines and closures. Still, the legacy of Chicago’s catalog pioneers persists in the distribution systems and consumer models that underpin twenty-first-century online retail. ([Annie Rules -][5])
+
+
+
+* “The Rise and Fall of Chicago’s Mail Order Giants,” *Chicago Stories* (WTTW) — [https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants](https://www.wttw.com/chicago-stories/rise-and-fall-of-the-mail-order-giants) ([turn0search0])
+* “Mail Order and Catalogs,” National Postal Museum — [https://postalmuseum.si.edu/exhibition/america%E2%80%99s-mailing-industry-industry-segments/catalogs-and-the-mail-order-industry](https://postalmuseum.si.edu/exhibition/america%E2%80%99s-mailing-industry-industry-segments/catalogs-and-the-mail-order-industry) ([turn0search17])
+* “Catalog Shopping and Growth of American Retail” — scholarly overview of rural delivery impact and mail-order economics (paywalled summary) [https://www.ebsco.com/research-starters/economics/catalog-shopping-and-growth-american-retail](https://www.ebsco.com/research-starters/economics/catalog-shopping-and-growth-american-retail) ([turn0search12])
+
+[1]: https://www.encyclopedia.chicagohistory.org/pages/779.html "Mail Order - Encyclopedia of Chicago"
+[2]: https://www.walsworth.com/blog/history-of-catalogs "A History of Trade Catalogs - Walsworth"
+[3]: https://en.wikipedia.org/wiki/Montgomery_Ward_Company_Complex "Montgomery Ward Company Complex"
+[4]: https://www.cambridge.org/core/journals/prospects/article/mailorder-catalogs-as-resources-in-american-culture-studies/B8F3FB6C29E95A3BAA60F8DD8C6A3929 "Mail-Order Catalogs as Resources in American Culture ..."
+[5]: https://classicchicagomagazine.com/a-mail-order-dynasty-the-history-of-montgomery-ward-company/ "A Mail Order Dynasty: The History of Montgomery Ward & ..."
 
 
 ---
