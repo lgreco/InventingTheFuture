@@ -200,7 +200,7 @@ Bubbly Creek may provoke laughter at first — a river that bubbles! — but its
 
 ![](../images/body_of_lake_michigan.jpg)
 
-The Body of Lake Michigan, Todd Slaughter, 2001 Fiberglass and steel, 4x14x28 ft., 
+The Body of Lake Michigan, Todd Slaughter, 2001, Fiberglass and steel, 4x14x28 ft., 
 *is a sculpture installed at Midway Airport in Chicago. It depicts the depth profile of the lake based on data from the the National Oceanic and Atmospheric Administration and the National Environmental Satellite, Data, and Information Service.*  
 
 
