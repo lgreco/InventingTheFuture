@@ -3,7 +3,18 @@
 
 ## Reading
 
-* Amanda Gefter, *The man who tried to redeem the world with logic*, Nautilus, 2015.  [PDF](../reading_material/ai_amanda_gefter_2015.pdf) | [Web](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253?giftLink=88c2d8b2a16b1a3e37c921666b5311e7)
+* **Required:** 
+
+  * Amanda Gefter, *The man who tried to redeem the world with logic*, Nautilus, 2015.  [PDF](../reading_material/ai_amanda_gefter_2015.pdf) | [Web](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253?giftLink=88c2d8b2a16b1a3e37c921666b5311e7)
+
+* **Interesting/optional:**
+
+  * [A college student's perspective on using AI in class](https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class), by Maximilian Milovidov, Phoebe Lett, NPR, March 2026.
+
+  * [What happens after AI destroys college writing?](https://www.newyorker.com/magazine/2025/07/07/the-end-of-the-english-paper) Hua Hsu, The New Yorker, June 2025.
+
+  * [How teens use and view AI](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) Pew Research Center
+
 
 ## Abstract
 
