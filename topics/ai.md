@@ -105,7 +105,7 @@ The same architecture that enables these breakthroughs creates new and serious r
 
 * Who governs AI supertools? Should powerful AI be treated as public infrastructure — like roads, electrical grids, or the internet — subject to public ownership or heavy regulation? Or should development remain with private actors in competitive markets? What are the tradeoffs?
 
-* Q3 — The unknown unknowns problem. If an AI system discovers something no human scientist would have found — a drug interaction, a physical constant, a mathematical proof — how do we validate it? What happens to scientific understanding if the reasoning is opaque?
+* The unknown unknowns problem. If an AI system discovers something no human scientist would have found — a drug interaction, a physical constant, a mathematical proof — how do we validate it? What happens to scientific understanding if the reasoning is opaque?
 
 * Your responsibility as a citizen. Decisions about your credit, healthcare, employment, bail, and insurance are increasingly made or influenced by AI systems. What rights should you have over those systems? What obligations do you have as a voter and citizen to engage with AI governance?
 
