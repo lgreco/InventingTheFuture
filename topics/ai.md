@@ -113,7 +113,7 @@ The same architecture that enables these breakthroughs creates new and serious r
 
 ## Supplementary notes
 
-### Pitt and the Frog
+### Pitts and the Frog
 
 The results of the 1959 study **"What the Frog’s Eye Tells the Frog’s Brain"** shattered Walter Pitts' worldview because they fundamentally contradicted his lifelong belief that the nervous system operated as a purely **logical, digital machine**.
 
