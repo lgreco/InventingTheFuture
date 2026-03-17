@@ -4,7 +4,7 @@ Update 3/16/26:
 
 I started by focusing on the Manhattan Project. It is a classic case of science in wartime: dual use, moral responsibility, patriotism, and the legacy of scientific discovery. As the semester progressed and current events caught up with us, the role of science at the time of war became more salient, and I added the cases of Fritz Haber and Dario Amodei to show how the same themes play out across different eras and technologies.
 
-The facetious  titlke ("Caboom") reflects the time that has passed since the Manhattan Project. It is not meant to make light of the topic, but to signal that we are looking at a historical case with a long legacy, not a current controversy. The cases of Haber and Amodei are meant to show how the same moral questions arise in different contexts, and to invite discussion about how we should think about scientific responsibility in wartime.
+The title may come across as facetious but my intention was to make a tense topic a bit less tense.
 
 Τhe three cases line up around the same recurring tension: **science expands human power; war pressures states to weaponize that power; scientists then face questions of responsibility, complicity, and limits.**
 
