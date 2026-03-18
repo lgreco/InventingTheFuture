@@ -181,7 +181,7 @@ Amodei then sketches five domains where AI could dramatically improve human life
 
 Overall, the essay is a deliberately hopeful counterpart to AI doom narratives: Amodei’s claim is that the point of taking AI risk seriously is not fear for its own sake, but preserving the possibility of a genuinely better future.
 
-**Source:** [Dario Amodei, “Machines of Loving Grace,” 2024](https://www.anthropic.com/index/machines-of-loving-grace)
+**Source:** [Dario Amodei, “Machines of Loving Grace,” 2024](https://www.darioamodei.com/essay/machines-of-loving-gracedei)
 
 
 ### The basic setup
