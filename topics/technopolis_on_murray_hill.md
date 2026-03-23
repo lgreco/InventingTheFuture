@@ -21,7 +21,13 @@ Corporate restructuring and the breakup of AT&T in the 1980s changed the Labs' t
 * [Blog/opinion] [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 
 
+<center>
 
+![](../images/point-contact.jpg)
+
+The first transistor.
+
+<center/>
 
 ---
 
