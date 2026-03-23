@@ -53,7 +53,7 @@ The Bell Telephone Company became the American Telephone and Telegraph Company (
 
 ### Enter Vail
 
-Into this chaos came Theodore Newton Vail, one of the most consequential corporate executives in American history — and one of the least remembered. Vail had served as AT&T's first president in the 1880s, but he resigned in 1889 over a conflict with the company's board, who prioritized short-term dividends over long-term service investment. He spent two decades in South America building electric streetcar systems and hydropower plants before AT&T's board, in desperation, brought him back as president in 1907.
+Into this chaos came Theodore Newton Vail, one of the most remarkable corporate executives in American history — also one of the least remembered. Vail had served as AT&T's first president in the 1880s, but he resigned in 1889 over a conflict with the company's board, who prioritized short-term dividends over long-term service investment. He spent two decades in South America building electric streetcar systems and hydropower plants before AT&T's board, in desperation, brought him back as president in 1907.
 
 Vail returned with a philosophy that was radical for its time and still sounds unusual now. He believed the telephone was not just a product to sell but a public utility whose value depended entirely on universal reach. A telephone network that connected only wealthy urban subscribers was less valuable — to everyone, including AT&T — than one that connected every household in America. This was the doctrine that became the company's famous motto: **"One Policy, One System, Universal Service."**
 
@@ -298,4 +298,21 @@ The glass case in Murray Hill is still there. So is the germanium slab. The hard
 
 ---
 
-*Sources consulted include: Jon Gertner, The Idea Factory: Bell Labs and the Great Age of American Innovation (2012); Nokia Bell Labs historical archives; Bell System Memorial; IEEE Spectrum; ETHW (Engineering and Technology History Wiki); Wikipedia Bell Labs; and multiple contemporary analyses of the institution's rise, mission, and decline.*
+*Sources consulted include: Jon Gertner, The Idea Factory: Bell Labs and the Great Age of American Innovation (2012); Nokia Bell Labs historical archives; Bell System Memorial; IEEE Spectrum; ETHW (Engineering and Technology History Wiki); Wikipedia Bell Labs. Additional sources listed below.*
+
+
+
+*   **"An Outline of the History of the Transistor"** (Transistorized!). PBS Online. Includes contributions from ScienCentral, Inc. and the American Institute of Physics.
+*   **"Bell Labs."** Wikipedia, The Free Encyclopedia. Last edited March 2, 2026.
+*   **Genkina, Dina.** "Bell Labs Turns 100, Plans to Leave Its Old Headquarters." *IEEE Spectrum*. April 18, 2025.
+*   **Gorman, Michael E.** "Alexander Graham Bell's Path to the Telephone." SEAS, University of Virginia.
+*   **"Inside the Birthplace of Your Favorite Technology."** *The New York Times*.
+*   **Ione, Amy.** Review of *The Idea Factory: Bell Labs and the Great Age of American Innovation* by Jon Gertner. *Leonardo Reviews*, MIT Press.
+*   **"John Bardeen."** Wikipedia, The Free Encyclopedia. Last edited March 21, 2026.
+*   **"Traitorous eight."** Wikipedia, The Free Encyclopedia. Last edited February 3, 2026.
+*   **"Walter Brattain."** Wikipedia, The Free Encyclopedia. Last edited February 23, 2026.
+*   **"What are the Bell Labs of today?"** Reddit, r/AskEngineers.
+*   **"William Shockley."** Wikipedia, The Free Encyclopedia. Last edited March 16, 2026.
+
+
+*Original draft by Leo Irakliotis. Grammatical edits and readability improvements by chatGPT. Final review by Leo.*
