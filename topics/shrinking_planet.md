@@ -382,9 +382,9 @@ Both technologies have been engines of human progress and instruments of harm. A
 
 The pattern is consistent: every powerful technology amplifies existing human tendencies, both constructive and destructive. Radio and aviation did not create war, propaganda, or inequality — but they made all three more effective at scale.
 
+---
 
-
-Sources
+# Sources
 
 ## Books
 
