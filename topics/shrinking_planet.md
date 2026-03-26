@@ -1,6 +1,6 @@
-# Shrinking a Planet: How Radio and Airplanes Made the World a Smaller Place
+# Shrinking a Planet<br/>How Radio and Airplanes<br/>Made the World a Smaller Place
 
-# Preparing for the class meeting: radios
+**Preparing for the class meeting: radios**
 
 If you have limited time, my top recommendation is the **National Humanities Center lesson and primary source collection: "The Radio: Blessing or Curse? A 1929 Debate"**, combined with the accompanying "Collected Commentary" document.
 
@@ -13,7 +13,7 @@ This is a curated set of primary sources from the 1920s — real voices debating
 If you prefer something more narrative, the companion website for Ken Burns' **"Empire of the Air"** documentary has essays and historical context freely available at https://www.pbs.org/kenburns/empire-air — and the full documentary (1 hour 53 minutes) streams free on PBS.org and the PBS app.
 
 
-# Preparing for the class meeting: airplanes
+**Preparing for the class meeting: airplanes**
 
 
 If you have limited time, my top recommendation is the **Centennial of Flight Commission essay series on the social history of aviation**, hosted by the U.S. Centennial of Flight Commission (a congressional body created to mark the 100th anniversary of the Wright brothers' flight). The relevant essays are freely available online and were written by academic historians:
@@ -27,8 +27,9 @@ Together these essays form a coherent, roughly 45-minute reading that covers how
 The **Encyclopedia of the History of Science** has an very good essay titled "Flight" that situates aviation within broader social and mobility studies: https://ethos.lps.library.cmu.edu/article/id/45/ — this one is more academic but quite readable, and it covers the global story rather than just the American one.
 
 ---
+
 # Leo's notes
----
+
 
 # Part I - Radios
 
