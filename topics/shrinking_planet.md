@@ -27,6 +27,8 @@ Together these essays form a coherent, roughly 45-minute reading that covers how
 The **Encyclopedia of the History of Science** has an very good essay titled "Flight" that situates aviation within broader social and mobility studies: https://ethos.lps.library.cmu.edu/article/id/45/ — this one is more academic but quite readable, and it covers the global story rather than just the American one.
 
 ---
+# Leo's notes
+---
 
 # Part I - Radios
 
