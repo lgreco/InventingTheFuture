@@ -24,7 +24,7 @@ If you have limited time, my top recommendation is the **Centennial of Flight Co
 
 Together these essays form a coherent, roughly 45-minute reading that covers how aviation reshaped American life — economic, social, and cultural — from the barnstorming era through the jet age. They're written for an educated general audience, not specialists, and they're well-sourced without being bogged down in academic jargon.
 
-**Side note:** [Katharine Wright](https://airandspace.si.edu/stories/editorial/katharine-wright-wright-sister)
+* **Side note:** [Katharine Wright](https://airandspace.si.edu/stories/editorial/katharine-wright-wright-sister)
 
 The **Encyclopedia of the History of Science** has an very good essay titled "Flight" that situates aviation within broader social and mobility studies: https://ethos.lps.library.cmu.edu/article/id/45/ — this one is more academic but quite readable, and it covers the global story rather than just the American one.
 
