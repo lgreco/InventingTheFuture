@@ -18,9 +18,9 @@ If you prefer something more narrative, the companion website for Ken Burns' **"
 
 If you have limited time, my top recommendation is the **Centennial of Flight Commission essay series on the social history of aviation**, hosted by the U.S. Centennial of Flight Commission (a congressional body created to mark the 100th anniversary of the Wright brothers' flight). The relevant essays are freely available online and were written by academic historians:
 
-- **Overview — Social History of Aviation and Spaceflight:** https://www.centennialofflight.net/essay/Social/SH-OV1.htm
-- **The Social and Cultural History of Aviation (the key essay):** https://www.centennialofflight.net/essay/Social/SH-OV2.htm — This covers William Ogburn's groundbreaking 1946 sociological study of aviation's effects, the gap between industry hype and social reality, and how historians have since analyzed aviation's impact on commerce, war, culture, urbanization, and identity.
-- **Air Travel: Its Impact on the Way We Live:** https://www.centennialofflight.net/essay/Social/impact/SH3.htm
+- **Overview — Social History of Aviation and Spaceflight:** [Original site](https://www.centennialofflight.net/essay/Social/SH-OV1.htm) | [Archived copy](https://web.archive.org/web/20250211212934/https://www.centennialofflight.net/essay/Social/SH-OV1.htm) in case the original site is not responding.
+- **The Social and Cultural History of Aviation (the key essay):** [Original site](https://www.centennialofflight.net/essay/Social/SH-OV2.htm)|  [Archived copy](https://web.archive.org/web/20250211212934/https://www.centennialofflight.net/essay/Social/SH-OV2.htm) in case the original site is not responding. This covers William Ogburn's groundbreaking 1946 sociological study of aviation's effects, the gap between industry hype and social reality, and how historians have since analyzed aviation's impact on commerce, war, culture, urbanization, and identity.
+- **Air Travel: Its Impact on the Way We Live:** [Original site](https://www.centennialofflight.net/essay/Social/impact/SH3.htm) | [Archived copy](https://web.archive.org/web/20251114120753/https://www.centennialofflight.net/essay/Social/impact/SH3.htm) in case the original site is not responding.
 
 Together these essays form a coherent, roughly 45-minute reading that covers how aviation reshaped American life — economic, social, and cultural — from the barnstorming era through the jet age. They're written for an educated general audience, not specialists, and they're well-sourced without being bogged down in academic jargon.
 
