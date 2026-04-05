@@ -6,8 +6,7 @@
 >
 > — Benj Edwards, *Vintage Computing and Gaming*, November 2005
 
----
----
+
 
 # PART I: A History of Games — From Lawn Balls to Laser Beams
 
