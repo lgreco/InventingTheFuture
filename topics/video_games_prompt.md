@@ -121,32 +121,6 @@ Throughout the document, make the following ideas legible:
 
 Do **not** merely list facts. Interpret them.
 
----
-
-## Required Document Structure
-
-Write the document in **Markdown**, with substantial headings and subheadings. Use the following overall architecture.
-
-# Title
-
-Use a title in this spirit:
-
-**From Bagatelle to the Metaverse: The History, Evolution, and Future of Video Games**
-
-You may improve the phrasing slightly, but it should preserve:
-
-* a long historical arc,
-* a sense of movement,
-* a connection between early physical games and speculative digital futures.
-
-## Epigraph
-
-Begin with a brief epigraph from a technology writer, historian, designer, or critic that sets up the claim that digital technologies are reshaping how humans live and play.
-
-Format it as a blockquote with attribution.
-
-
----
 
 ## Overall Thesis
 
@@ -162,19 +136,30 @@ The document should advance the broad idea that:
 
 ---
 
-## Structural Requirements
+## Required Document Structure
 
-Write the document in **clean Markdown**, with headings exactly or very close to the following structure.
+Write the document in **Markdown**, with substantial headings and subheadings. Use the following overall architecture.
 
-# Title
+### Title 
 
-A strong title:
+Use a title in this spirit:
+
 **From Bagatelle to the Metaverse: The History, Evolution, and Future of Video Games**
 
-Immediately below the title, include:
+You may improve the phrasing slightly, but it should preserve:
 
-* an **epigraph / quote** from a relevant commentator or historian of computing/gaming,
-* formatted as a Markdown blockquote.
+* a long historical arc,
+* a sense of movement,
+* a connection between early physical games and speculative digital futures.
+
+### Epigraph
+
+Begin with a brief epigraph from a technology writer, historian, designer, or critic that sets up the claim that digital technologies are reshaping how humans live and play.
+
+Format it as a blockquote with attribution.
+
+
+---
 
 Then organize the document into these major parts:
 
