@@ -577,3 +577,5 @@ These questions may be used alongside or instead of the questions in the main ha
 - Edwards, Benj. "The PC is Dead: It's Time to Bring Back Personal Computing." *Vintage Computing and Gaming* (January 2025). https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again
 
 ---
+
+**Disclosure of AI use:** this handout was developed from a combined review of material on a NoteBookLM and editing of material on Claude based on an [extensive prompt](./video_games_prompt.md) written by Leo Irakliotis.
