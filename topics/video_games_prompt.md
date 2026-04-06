@@ -462,6 +462,8 @@ The bibliography should feel curated for students who want to go further.
 
 # Appendix
 
+<!-- Based on feedback from Manos M. -->
+
 Add a substantial appendix with at least the following subsections:
 
 ## A. The Role of the PC in the History and Evolution of Games
