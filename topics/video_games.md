@@ -356,5 +356,224 @@ Studied this way, video games are not a cultural sideshow. They are one of the c
 - *The Life & Times of Video Games* (podcast by Richard Moss). https://lifeandtimes.games/
 - Ars Technica. "War Stories" video series (YouTube).
 - NoClip documentaries (YouTube). https://www.youtube.com/@nikitwit
+- [High Score](https://www.netflix.com/title/81019087), a Netflix docuseries about early video games.
+
+---
+
+# Appendix
+
+---
+
+> *"The gaming PC endures because it is not just a product. It is a philosophy. It says that performance and customization matter, and that the person using the machine should have control over it."*
+>
+> — StyleTech, "The History of the Gaming PC" (2026)
+
+---
+
+# A. The Role of the PC in the History and Evolution of Games
+
+## A.1 The PC as Gaming Platform: An Accidental Empire
+
+Here's a fact that should delight anyone who has ever argued with a console gamer about framerates: the personal computer was never *designed* to be a gaming machine. It became one anyway, through a combination of open architecture, enthusiast culture, and the sheer bloody-mindedness of people who refused to accept that "good enough" graphics were good enough.
+
+The earliest computer games — *Spacewar!* (1962), various mainframe text adventures — ran on institutional machines that no individual could own. When personal computers arrived in the late 1970s, gaming came along as a stowaway. The **Apple II** (1977) and the **Commodore 64** (1982) were marketed as general-purpose home computers, but they sold partly — and in some cases primarily — because people wanted to play games on them. The Commodore 64, the best-selling single personal computer model of all time, had over 10,000 compatible games developed for it. Nobody at Commodore's marketing department was calling it a "gaming PC," but that's what it was for millions of owners.
+
+The **IBM PC** (1981) changed the equation in a way that still reverberates. IBM's decision to use off-the-shelf components and license its operating system from Microsoft (rather than developing proprietary hardware) created an open ecosystem. Other manufacturers could build "IBM-compatible" clones. This meant that unlike Apple's or Commodore's closed systems, the IBM PC architecture was modular. You could swap parts. You could upgrade. You could *tinker*.
+
+This is the moment — and I cannot overstate how consequential this is — when the philosophy of the gaming PC was born. Not as a product, but as an *activity*: choosing your own components, assembling them, optimizing them, and then arguing with strangers on the internet about whether your choices were correct.
+
+## A.2 The DOS Era
+
+Through the 1980s, PC gaming was a niche within a niche. The machines were expensive, the interfaces were unfriendly (you needed to know how to configure `config.sys` and `autoexec.bat` to get many games running), and consoles offered a simpler experience for casual players. But the PC had one decisive advantage: it was an open platform. Anyone could develop for it without paying licensing fees to a platform holder.
+
+This openness produced the shareware revolution. **id Software** — two guys named John (Carmack and Romero) — distributed *Wolfenstein 3D* (1992) and *Doom* (1993) through shareware channels, giving away the first episode for free and charging for the rest. *Doom* alone sold over 200,000 copies in its first year and was credited with popularizing the first-person shooter genre. Between 1991 and 1995, DOS accounted for over 90% of all computer game sales.
+
+*Doom* did something else that was critically important: it demonstrated that PC hardware could do things consoles couldn't. The game's engine pushed processors to their limits. Players who wanted smoother performance bought faster CPUs. The arms race between game developers and hardware manufacturers — each pushing the other to greater heights — had begun.
+
+## A.3 The 3D Graphics Arms Race
+
+The mid-1990s turned this arms race from a hobby into an industry. When **3dfx** released the **Voodoo** graphics accelerator in 1996, it created a new product category: the dedicated gaming graphics card. Suddenly you didn't just buy a computer — you bought a computer *and* a graphics card, chosen specifically for its gaming performance.
+
+**NVIDIA** entered the fray with the RIVA 128 (1997) and then the **GeForce 256** (1999), marketed as the world's first GPU. **ATI** (later acquired by AMD) provided competition. The cycle was relentless: new games demanded new hardware, new hardware enabled new games, and consumers upgraded on a cadence that would have seemed insane in any other product category. People who would drive the same car for a decade would replace their graphics card every 18 months.
+
+This cycle created the **gaming PC market** as a distinct economic entity — not just "computers that happen to play games" but machines explicitly designed, marketed, and sold for gaming performance. Companies like **Alienware** (founded 1996, acquired by Dell in 2006), **Falcon Northwest**, **Maingear**, and later **CyberPowerPC** and **iBUYPOWER** emerged to sell pre-built gaming systems at premium prices. Major manufacturers followed: ASUS launched its **Republic of Gamers (ROG)** brand, Acer created **Predator**, Lenovo introduced **Legion**, and MSI built its identity around gaming hardware.
+
+## A.4 The Custom-Build Culture
+
+But the pre-built market was always only half the story. The other half was — and remains — the custom-build community.
+
+Building your own gaming PC became a rite of passage for a certain kind of technology enthusiast. The practice exploded in the early 2000s as standardized components (ATX motherboards, standard power supply form factors, universal RAM slots) made assembly accessible to anyone willing to watch a tutorial and exercise modest care with static electricity. Online communities like Tom's Hardware, AnandTech, and later Reddit's r/buildapc provided guidance, benchmarks, and an endless supply of opinions.
+
+The custom-build culture produced its own subcultures: **overclockers** who pushed CPUs and GPUs beyond their rated specifications for marginal performance gains; **modders** who modified their cases with custom paint, LED lighting, and transparent panels; and eventually the **RGB lighting** aesthetic that now defines gaming hardware at every price point — a purely cosmetic feature that somehow became a multi-billion-dollar market differentiator.
+
+This culture embodies the ethos that Benj Edwards identified as central to the personal computing revolution: the belief that the person using the machine should have control over it. In an era of increasingly locked-down consumer electronics — phones you can't repair, consoles you can't modify, software you don't own — the gaming PC remains a bastion of user sovereignty. You choose every component. You install your own operating system if you want. You decide when to upgrade and what to upgrade. This is not merely a consumer preference. It is, as Edwards has argued, a *philosophy*.
+
+## A.5 The Market Today
+
+The gaming PC market generates hundreds of billions of dollars annually across hardware, peripherals, and software. As of 2025, Steam — the dominant digital distribution platform — regularly records over 39 million concurrent users. NVIDIA alone is valued at over $2 trillion, driven largely by GPU technology that originated in gaming. The line between "gaming hardware" and "general-purpose computing hardware" has blurred almost beyond recognition: the same GPUs that render game worlds now train AI models, and the same high-refresh-rate monitors that display *Counter-Strike* also serve video editors, financial analysts, and medical imaging specialists.
+
+The gaming PC, in short, is not a niche. It is the bleeding edge of consumer computing, and it has been for three decades.
+
+---
+
+# B. Valve Corporation: A Case Study in Innovation and Influence
+
+## B.1 Origins: Microsoft Refugees with a Vision
+
+On August 24, 1996 — which also happened to be his wedding day — **Gabe Newell** co-founded Valve with fellow Microsoft employee **Mike Harrington** in Kirkland, Washington. Newell had spent thirteen years at Microsoft, working on the first three releases of Windows. Harrington had similar deep experience in software engineering. Both men used their personal wealth from Microsoft stock options to fund the new company, deliberately avoiding venture capital in order to retain creative control.
+
+The founding story is worth lingering on because it illuminates something important about the relationship between mainstream technology companies and the game industry. Newell didn't leave Microsoft because he disliked software engineering. He left because he had seen *Doom* — and it convinced him that games were the future of entertainment. Later, *Super Mario 64* convinced him that games were art. The combination of those two convictions — games as the future, games as art — would define Valve's corporate identity for the next three decades.
+
+Newell later described his motivation in characteristically direct terms: he felt that working with "other really smart, motivated, socially oriented people to create product that would affect millions of other people" would be more fun than retirement.
+
+## B.2 Half-Life: Proving the Thesis
+
+Valve licensed and heavily modified id Software's *Quake* engine to create what they called the **GoldSrc engine**, then used it to build their debut title: ***Half-Life*** (1998).
+
+Half-Life was not merely a successful game. It was a paradigm shift. Previous first-person shooters treated narrative as decoration — a thin wrapper around the core activity of shooting things. Half-Life wove narrative into gameplay seamlessly: the story was told through the environment, through overheard conversations, through scripted events that occurred within the game world rather than in separate cutscenes. The player never lost control of the camera. The game earned over 50 Game of the Year awards and sold millions of copies.
+
+But Valve's most consequential decision during this period was not about game design. It was about *talent acquisition*. When a group of modders (amateur developers who modify existing games) created **Counter-Strike** — a tactical multiplayer mod built on the Half-Life engine — Valve didn't sue them or ignore them. Valve *hired them*. The Counter-Strike mod team was brought on board in 1999–2000, and the mod was developed into a standalone product that became one of the most popular competitive multiplayer games in history.
+
+This practice — recruiting talent from the modding community — became a defining element of Valve's culture. **Team Fortress**, **Day of Defeat**, and later **Portal** and **Dota 2** all originated as community-created mods or concepts that Valve identified, acquired, and polished into major franchises. It's a form of R&D outsourcing that most companies would never consider, because it requires a corporate culture willing to admit that the best ideas might come from outside the building.
+
+## B.3 The Flat Organization Experiment
+
+Valve's internal culture became almost as famous as its games. After completing *Half-Life 2* (2004), Valve transitioned from a conventional hierarchical structure to a **flat organization**: no bosses, no job titles, no formal reporting chains. Employees chose what projects to work on. Desks had wheels so people could physically move to join different teams. Valve's marketing manager, Doug Lombardi, described it this way: nobody writes a design document and hands it to somebody else to build. Teams come up with ideas and push in the directions they want.
+
+This structure produced extraordinary creative output — *Portal*, *Left 4 Dead*, *Dota 2*, *Half-Life: Alyx* — but it also produced well-documented problems. A 2023 investigative report found that the flat structure and stack-ranking compensation system contributed to a poor release record (the long-running joke about *Half-Life 3* never materializing is partly a consequence of an organization where no one can *make* anyone work on a specific project) and a lack of employee diversity.
+
+Valve itself has acknowledged the limitations. Designer Robin Walker noted that the VR project *Half-Life: Alyx* became a turning point because the company had to collectively admit that pure self-direction wasn't always optimal: "We sort of had to collectively admit we were wrong on the premise that you will be happiest if you work on something you personally want to work on the most."
+
+The Valve organizational experiment is worth studying not because it's a model to be copied, but because it stress-tests assumptions about how creative technology companies should work. It demonstrates both the extraordinary potential and the real costs of radical organizational flatness. For a company that has remained private (Newell reportedly owns just over 50% of the company, with the rest held by employees), the luxury of never answering to shareholders has enabled experiments that public companies simply could not attempt.
+
+## B.4 Steam: The Platform That Ate PC Gaming
+
+And then there's **Steam**.
+
+Launched in September 2003, Steam began as a mundane utility: a client application for distributing updates to Valve's own games. Its original purpose was to solve the practical problem of patching multiplayer games — making sure all players were running the same version of *Counter-Strike* so online matches would work correctly.
+
+The genius — or perhaps the audacity — was what came next. Valve made Steam *mandatory* for playing *Half-Life 2* (2004). Every copy of the game, including retail boxed copies, required Steam activation. Gamers were furious. The early Steam client was slow, buggy, and required an internet connection at a time when always-online requirements felt like an imposition. The backlash was severe.
+
+Valve absorbed the criticism and kept iterating. By late 2005, Steam began distributing third-party titles. Slowly, then all at once, Steam became the dominant digital distribution platform for PC games. By 2011, it controlled over half the digital PC games market. By 2025, it hosted over 100,000 titles and regularly recorded 39 million concurrent users, with an estimated 74% share of the global PC gaming digital distribution market and revenues estimated at **$9 billion in 2023 alone**.
+
+Steam didn't just sell games. It created an ecosystem: user profiles, achievement systems, community forums, cloud saves, a workshop for user-generated content, broadcasting tools, and — crucially — a marketplace for virtual goods. It became the social infrastructure of PC gaming: the place where you bought games, talked about games, organized multiplayer sessions, shared screenshots, wrote reviews, and traded items.
+
+Valve's standard revenue split — **30%** of all sales going to Valve, 70% to the developer — became the de facto industry standard across digital platforms (Apple's App Store, Google Play, and console storefronts all adopted similar splits). This rate has also been the subject of ongoing controversy, with competitors like the **Epic Games Store** (which takes only 12%) arguing that Valve's cut is exploitative given the scale of their operation. In 2018, Valve adjusted its rates for high-revenue games (25% above $10M, 20% above $50M), but indie developers — who don't reach those thresholds — have continued to argue that the 30% cut is excessive.
+
+## B.5 Hardware Ambitions
+
+Valve has repeatedly ventured into hardware, with mixed results. The **Steam Machine** initiative (2015) — an attempt to create a standardized living-room PC gaming console running SteamOS — was a commercial failure. The **Steam Controller** (2015), with its unusual trackpads-instead-of-thumbsticks design, was discontinued in 2019.
+
+But the **Valve Index** VR headset (2019) earned respect as a premium VR system, and ***Half-Life: Alyx*** (2020) — a VR-exclusive game — was widely described as VR's first genuine "killer app." And the **Steam Deck** (2022), a handheld gaming PC running Linux-based SteamOS with a compatibility layer called Proton that allows most Windows games to run without modification, was a substantial commercial success, generating an estimated $2 billion annually. A Steam Deck 2 is reportedly in development.
+
+The Steam Deck is philosophically fascinating: it's Valve's attempt to liberate PC gaming from the Windows operating system entirely, running an open-source Linux-based OS that users can modify, replace, or ignore as they see fit. It embodies exactly the "personal computing" ethos that Edwards has argued is being lost elsewhere in the technology industry.
+
+---
+
+# C. Game Transactions: From Quarters to Skin Economies
+
+## C.1 The Original Transaction: Coins for Play
+
+The business model of video gaming has undergone more radical transformations than perhaps any other entertainment medium, and those transformations tell us something important about the economics of digital goods, the psychology of spending, and the blurred line between entertainment and finance.
+
+The original model was simple: insert a coin, play a game. Pinball machines and arcade cabinets operated on a **pay-per-play** basis. A quarter bought you a few minutes of entertainment, and the economic relationship was clear and immediate. You knew exactly what you were paying for, and when it was over, it was over.
+
+Home consoles and PC games introduced the **one-time purchase** model: pay a fixed price ($40, $50, eventually $60, and now $70 for major titles), receive a complete product. The game was *yours* — a physical cartridge or disc that you could play forever, lend to a friend, resell, or throw in a drawer and rediscover a decade later. The economics were straightforward: developers needed to sell enough copies to recoup development costs and generate profit, then move on to the next game.
+
+## C.2 Shareware and the Seeds of Free-to-Play
+
+The shareware model of the early 1990s introduced a subtler transaction structure. id Software's *Doom* gave away the first episode entirely free and charged for the subsequent episodes. This was arguably the first "freemium" model in gaming — give something away to build an audience, then monetize the most engaged users. It worked spectacularly, but it was still a model based on selling a complete product: you either bought the full game or you didn't.
+
+## C.3 Digital Distribution and the Steam Effect
+
+Steam's arrival in 2003–2005 didn't just change *how* games were sold. It changed what it meant to "buy" a game.
+
+When you purchase a game on Steam, you don't own it in the traditional sense. You own a **license** — a revocable permission to access the game through Steam's servers. Valve can (and occasionally does) remove games from the platform. If Steam ever shut down, access to your entire library would depend on Valve's goodwill in releasing DRM-free versions (something they have informally suggested they would do, but have never legally committed to).
+
+This shift from ownership to licensing was one of the most consequential transitions in the history of consumer entertainment, and it happened so gradually that most consumers barely noticed. It parallels the shift from buying CDs to subscribing to Spotify, from purchasing DVDs to streaming on Netflix — but in gaming, the transition began earlier and went further.
+
+Steam also pioneered the concept of **aggressive digital sales**. Steam's seasonal sales events — Summer Sale, Winter Sale, and various themed promotions — conditioned an entire generation of PC gamers to expect deep discounts (50%, 75%, even 90% off) as a regular occurrence. This had profound effects on both consumer psychology (why buy at full price when a sale is always a few weeks away?) and developer economics (how do you sustain a business when your customers have been trained to expect your product at a fraction of its nominal value?).
+
+## C.4 Microtransactions: Small Payments, Big Money
+
+The real revolution in game transactions came with **microtransactions** — small, often impulse-driven purchases made within a game, rather than for the game itself.
+
+The concept has roots in the 1982 arcade game *Lost Tomb*, which offered 25 additional "whips" (power-ups) for a quarter during gameplay — essentially an in-game purchase layered on top of the pay-per-play model. But the modern microtransaction economy didn't take shape until the late 2000s and early 2010s.
+
+Valve was an early and influential architect of this economy. In June 2011, Steam added support for **free-to-play games** and in-game microtransactions through Steamworks. In September 2011, it introduced **item trading** between users. In December 2012, the **Steam Community Market** launched, allowing users to buy and sell virtual items using Steam Wallet funds. Valve takes a 15% transaction fee on these sales (5% Steam fee + a game-specific fee).
+
+Valve's own games became laboratories for microtransaction economics. **Team Fortress 2** went free-to-play in 2011, funding itself entirely through cosmetic item sales. **Dota 2** launched as free-to-play in 2013, with monetization based exclusively on cosmetic items — skins, animations, voice lines — that confer no gameplay advantage. This "cosmetics-only" approach was a deliberate philosophical choice: Valve's own developer documentation warns that "paying money to eliminate frustration is not a sustainable business model" and that games where spending money makes the experience worse for non-paying players are fundamentally broken.
+
+## C.5 The Skin Economy: When Virtual Goods Become Financial Instruments
+
+Something unexpected happened with *Counter-Strike* weapon skins: they became **tradeable assets with real economic value**.
+
+Rare skins in *Counter-Strike: Global Offensive* (CS:GO) and its successor *Counter-Strike 2* can sell for thousands — in some cases, tens of thousands — of dollars. A functioning secondary market emerged, complete with pricing indices, market analysis, arbitrage opportunities, and speculation. As one analysis noted, digital knife skins became "portable stores of value with social yield" — you could show off your rare skin to other players, and if you tired of it, you could sell it for real money (or Steam Wallet credit).
+
+This grey-market economy rapidly outgrew Valve's controlled marketplace. Third-party websites emerged to facilitate skin trading, and then **skin gambling** — using skins as tokens for wagering on esports outcomes or casino-style games. In 2016, an estimated **$5 billion** worth of skins were wagered through these unofficial channels. The Washington State Gambling Commission investigated. Valve issued cease-and-desist letters to gambling sites. The market contracted dramatically — projections that had forecast $20 billion in skin gambling by 2020 were revised down to $670 million after Valve's crackdown.
+
+The skin economy is a remarkable case study for several reasons:
+
+- It emerged organically from player behavior, not from corporate planning
+- It demonstrates that digital scarcity (controlled by the game publisher) can generate real economic value
+- It shows how quickly an unregulated market for virtual goods can develop characteristics of financial markets — speculation, arbitrage, fraud, money laundering
+- It raises unresolved legal questions about the status of virtual goods: Are skins property? Are loot boxes gambling? When a 14-year-old spends $500 on skins, is that a consumer protection issue?
+
+## C.6 The Payments Infrastructure
+
+The complexity of modern game transactions is staggering. A 2025 report from the **Federal Reserve Bank of Kansas City** noted that Steam alone processes transactions across more than 100 different payment methods in nearly 40 fiat currencies, including credit cards, digital wallets (PayPal), buy-now-pay-later services (Klarna, Zip), and international payment systems that allow cash-based online payments (Paysafecard, PayPay).
+
+The video game industry generated nearly **$60 billion in revenue** in the United States in 2024 and **$190 billion globally**. A significant and growing share of this revenue comes not from selling games, but from selling things *inside* games. About half of total revenue for major publishers now comes from microtransactions. On PC specifically, microtransactions accounted for an estimated 58% of 2024 revenue.
+
+Regulators are paying attention. The U.S. Consumer Financial Protection Bureau (CFPB) has flagged concerns about consumer protections for virtual assets, data privacy, personalized pricing exploitation, and vulnerability to fraud. The European Union, through the Digital Services Act and GDPR, has mandated transparent disclosure of monetization mechanics and strict guidelines for data collection. Multiple countries have classified loot boxes as gambling. Others are still deliberating.
+
+## C.7 The Trajectory: From Products to Services to Economies
+
+The arc of game transactions can be summarized in five phases:
+
+1. **Pay-per-play** (1970s–1990s): Insert a coin, play a game. Transaction is immediate and complete.
+2. **One-time purchase** (1980s–2000s): Buy a cartridge, disc, or download. You own the game.
+3. **Digital distribution** (2003–present): Buy a license through a platform. You own access, not the game itself.
+4. **Microtransactions and free-to-play** (2011–present): The game is free or cheap. Revenue comes from ongoing small purchases within the game.
+5. **Virtual economies** (2012–present): In-game items acquire real economic value. Players trade, speculate, and gamble with virtual goods. The game becomes a marketplace.
+
+Each phase has expanded the industry's revenue while simultaneously raising new ethical, legal, and psychological questions. The journey from "put a quarter in the machine" to "a rare digital knife skin sold for $61,000" is one of the stranger economic stories of the 21st century — and it's not over.
+
+---
+
+# Additional Discussion Questions (Supplement to Main Handout)
+
+These questions may be used alongside or instead of the questions in the main handout.
+
+**13. The Open Platform Thesis.** The gaming PC market exists because IBM chose an open architecture in 1981. Apple chose a closed architecture and does not have a significant gaming PC market. Consoles are closed platforms. Is openness inherently better for innovation, or does it simply produce a *different kind* of innovation? What evidence can you marshal for either position?
+
+**14. Valve's Paradox.** Valve is simultaneously one of the most beloved and one of the most powerful companies in gaming. It operates a near-monopoly platform (Steam controls ~74% of PC game digital distribution) while maintaining an iconoclastic, anti-corporate public image. Is this tension sustainable? Should Steam's dominance be subject to antitrust scrutiny, as Epic Games and others have argued?
+
+**15. The Ownership Question.** When you "buy" a game on Steam, you purchase a license that Valve can theoretically revoke. When you buy a physical cartridge, you own an object. Does the distinction matter? Is there a meaningful sense in which digital goods can be "owned"? How does this connect to broader debates about digital rights management, right-to-repair, and the shift from ownership to subscription in other industries (music, film, software)?
+
+**16. Virtual Economies and Real Consequences.** Counter-Strike skins have been used as currency for gambling, money laundering, and financial speculation. Should game publishers bear legal responsibility for the secondary markets that emerge around their virtual goods? If a company creates artificial scarcity in a digital good, is it ethically different from a luxury brand limiting production of handbags?
+
+**17. The 30% Question.** Valve, Apple, and Google all take approximately 30% of revenue from games sold on their platforms. Epic Games takes 12% and has argued that the 30% rate is exploitative. What is a "fair" rate for platform intermediation? How should we think about the value that platforms provide versus the rent they extract?
+
+---
+
+# Sources for This Appendix
+
+- StyleTech. "The History of the Gaming PC" (April 2026). https://www.styletech.net/post/the-history-of-the-gaming-pc
+- Wikipedia. "Gaming Computer." https://en.wikipedia.org/wiki/Gaming_computer
+- Wikipedia. "Homebuilt Computer." https://en.wikipedia.org/wiki/Homebuilt_computer
+- Wikipedia. "Valve Corporation." https://en.wikipedia.org/wiki/Valve_Corporation
+- Wikipedia. "Gabe Newell." https://en.wikipedia.org/wiki/Gabe_Newell
+- Wikipedia. "Steam (service)." https://en.wikipedia.org/wiki/Steam_(service)
+- Wikipedia. "Microtransaction." https://en.wikipedia.org/wiki/Microtransaction
+- Computer History Museum. "Game On" (May 2024). https://computerhistory.org/blog/game-on/
+- WePC. "How PC Gaming Has Evolved" (2022). https://www.wepc.com/news/history-of-pc-gaming/
+- PortersFiveForce.com. "Brief History of Valve Corporation." https://portersfiveforce.com/blogs/brief-history/valvesoftware
+- Pestel-analysis.com. "Brief History of Valve Corporation." https://pestel-analysis.com/blogs/brief-history/valvesoftware
+- Valve / Steamworks Documentation. "Microtransactions (In-Game Purchases)." https://partner.steamgames.com/doc/features/microtransactions
+- Federal Reserve Bank of Kansas City. "Game Changer: The Evolution of Video Games' Payments Infrastructure" (December 2025). https://www.kansascityfed.org/research/payments-system-research-briefings/game-changer-the-evolution-of-video-games-payments-infrastructure/
+- Zendle, D. et al. "The changing face of desktop video game monetisation." *PLOS ONE* (2020). https://pmc.ncbi.nlm.nih.gov/articles/PMC7205278/
+- Plato Magazine. "Skins, microtransactions, and proto-finance: why Steam's grey markets point to crypto's next wave" (August 2025). https://www.plato-magazine.com/skins-microtransactions-and-proto-finance-why-steams-grey-markets-point-to-cryptos-next-wave/
+- Edwards, Benj. "The PC is Dead: It's Time to Bring Back Personal Computing." *Vintage Computing and Gaming* (January 2025). https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again
 
 ---
