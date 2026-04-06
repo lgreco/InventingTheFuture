@@ -421,6 +421,8 @@ It should be:
 
 # Appendix Design Requirements
 
+<!-- Based on suggestions by Manos -->
+
 The appendices are not optional add-ons. They must be substantive mini-essays.
 
 ---
