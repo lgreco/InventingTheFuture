@@ -541,7 +541,7 @@ Each phase has expanded the industry's revenue while simultaneously raising new 
 
 ---
 
-# Additional Discussion Questions (Supplement to Main Handout)
+# Additional Discussion Questions 
 
 These questions may be used alongside or instead of the questions in the main handout.
 
