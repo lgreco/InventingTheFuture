@@ -578,4 +578,4 @@ These questions may be used alongside or instead of the questions in the main ha
 
 ---
 
-**Disclosure of AI use:** this handout was developed from a combined review of material on a NoteBookLM and editing of material on Claude based on an [extensive prompt](./video_games_prompt.md) written by Leo Irakliotis.
+**Disclosure of AI use:** this handout was developed from a combined review of material on a [NoteBookLM](https://notebooklm.google.com/notebook/7cf575e7-77df-46f0-98e2-405b9bd6b662) and editing of material on Claude based on an [extensive prompt](./video_games_prompt.md) written by Leo Irakliotis.
