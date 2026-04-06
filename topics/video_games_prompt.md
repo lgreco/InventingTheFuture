@@ -1,6 +1,9 @@
 
 
-# Model-Operational Agentic Prompt
+# Model-Operational Agentic Prompt for HONR 204
+
+* Author: Leo Irakliotis
+* LLM: Opus 4.6
 
 ## Role and Goal
 
